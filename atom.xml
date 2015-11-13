@@ -1,0 +1,1058 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Idea Machine]]></title>
+  <subtitle><![CDATA[Sharing is Caring :)]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="/"/>
+  <updated>2015-11-13T12:48:31.203Z</updated>
+  <id>/</id>
+  
+  <author>
+    <name><![CDATA[Sanyam Jain]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[First post in Hexo]]></title>
+    <link href="/2015/11/13/First-post-in-Hexo/"/>
+    <id>/2015/11/13/First-post-in-Hexo/</id>
+    <published>2015-11-13T11:17:21.000Z</published>
+    <updated>2015-11-13T12:48:31.203Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Hexo" scheme="/tags/Hexo/"/>
+    
+      <category term="Technical" scheme="/categories/Technical/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="/2015/11/13/hello-world/"/>
+    <id>/2015/11/13/hello-world/</id>
+    <published>2015-11-12T22:46:47.317Z</published>
+    <updated>2015-11-12T22:46:47.317Z</updated>
+    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick_Start">Quick Start</h2><h3 id="Create_a_new_post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run_server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate_static_files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Organizing Photos; Tips & Pitfalls]]></title>
+    <link href="/2015/11/09/Organizing-Photos-Tips-Pitfalls/"/>
+    <id>/2015/11/09/Organizing-Photos-Tips-Pitfalls/</id>
+    <published>2015-11-09T12:56:22.000Z</published>
+    <updated>2015-11-13T11:22:37.935Z</updated>
+    <content type="html"><![CDATA[<p>Photos App: Doesn&#039;t allow you to selectively update photos to server.<br>Workflow 1:<br>Select photos, make a new folder, sync only this folder<br>Workflow 2:<br>Move photos to PC, selectively upload using Photos uploader.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Photos App: Doesn&#039;t allow you to selectively update photos to server.<br>Workflow 1:<br>Select photos, make a new folder, sync only ]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Porting Android Studio to Different Computer]]></title>
+    <link href="/2015/11/09/Porting-Android-Studio-to-Different-Computer/"/>
+    <id>/2015/11/09/Porting-Android-Studio-to-Different-Computer/</id>
+    <published>2015-11-09T12:56:09.000Z</published>
+    <updated>2015-11-13T11:22:37.930Z</updated>
+    <content type="html"><![CDATA[<ol>
+<li>Copy sdk, project and Android studio</li>
+<li>Change permissions of fole inside sdk as well as Android Studio using chmod -R 777 * &amp; ls -l (to see current)</li>
+<li>Install some missing dependencies for adb to run correctly; <span class="qlink_container"><a href="http://stackoverflow.com/questions/13571145/android-adb-not-found/24167324" target="_blank" rel="external">http://stackoverflow.com/<wbr>questio…</a></span></li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ol>
+<li>Copy sdk, project and Android studio</li>
+<li>Change permissions of fole inside sdk as well as Android Studio using chmod -R 777 * ]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Jekyll]]></title>
+    <link href="/2015/11/09/Jekyll/"/>
+    <id>/2015/11/09/Jekyll/</id>
+    <published>2015-11-09T12:55:53.000Z</published>
+    <updated>2015-11-13T11:22:37.914Z</updated>
+    <content type="html"><![CDATA[<p>Jekyll needs Ruby version &gt;2; check your version by ruby -v<br>Remove all ruby packages, if ruby-v doesn&#039;t give version &gt;2<br>To install package that is not in software manager/center; eg search ruby ppa on google<br>add popular ppa to your software sources<br>install required ruby package [1]<br>install jekyll sudo gem install jekyll [2]</p>
+<p>[1]<span class="qlink_container"><a href="https://www.brightbox.com/docs/ruby/ubuntu/" target="_blank" rel="external">Ruby packages for Ubuntu</a></span><br>[2]<span class="qlink_container"><a href="http://jekyllrb.com/" target="_blank" rel="external">Jekyll • Simple, blog-aware, static sites</a></span></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Jekyll needs Ruby version &gt;2; check your version by ruby -v<br>Remove all ruby packages, if ruby-v doesn&#039;t give version &gt;2<br>]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Java on Linux]]></title>
+    <link href="/2015/11/04/Java-on-Linux/"/>
+    <id>/2015/11/04/Java-on-Linux/</id>
+    <published>2015-11-04T12:44:27.000Z</published>
+    <updated>2015-11-13T11:22:37.931Z</updated>
+    <content type="html"><![CDATA[<ol>
+<li><p>Set PATH: used to run <strong>javac &amp; other bin applications</strong> from anywhere. Otherwise you need to give the complete path. (Was set automatically, somehow)</p>
+</li>
+<li><p>Set CLASSPATH: used to look for <strong>jdk tools &amp; user classes</strong>. You won&#039;t be able to use any class from current directory if you do no set it.In Java it is important to know <strong>from where you are compiling your program</strong>.</p>
+</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ol>
+<li><p>Set PATH: used to run <strong>javac &amp; other bin applications</strong> from anywhere. Otherwise you need to give the complete]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Pushing Android Project to Github]]></title>
+    <link href="/2015/10/30/Pushing-Android-Project-to-Github/"/>
+    <id>/2015/10/30/Pushing-Android-Project-to-Github/</id>
+    <published>2015-10-30T13:04:20.000Z</published>
+    <updated>2015-11-13T11:22:37.914Z</updated>
+    <content type="html"><![CDATA[<ol>
+<li><p>Add icon to project if not added already, take use of following website; <span class="qlink_container"><a href="https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html" target="_blank" rel="external">Android Asset Studio - Icon Generator - Launcher icons</a></span></p>
+</li>
+<li><p>VCS &gt; Import into Version Control &gt; Create Git Repository &gt; Select complete folder {Important}</p>
+</li>
+<li>VCS &gt; Import into Version Control &gt; Share Project on Github</li>
+<li><p>Add README.md</p>
+</li>
+<li><p>Extract app using App Extractor, push to drive, shorten url.</p>
+</li>
+<li>Take screenshot. Post screenshot to a github issue to upload on github server. {<strong>Ultimate Hack</strong>}</li>
+<li>In README, describe project, give link to project, add screenshot {using <strong>img html tag and attribute width</strong>}, add license info.</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ol>
+<li><p>Add icon to project if not added already, take use of following website; <span class="qlink_container"><a href="https://romannur]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Important Computer related skills that can be learnt in short time]]></title>
+    <link href="/2015/10/29/Important-Computer-related-skills-that-can-be-learnt-in-short-time/"/>
+    <id>/2015/10/29/Important-Computer-related-skills-that-can-be-learnt-in-short-time/</id>
+    <published>2015-10-29T08:40:52.000Z</published>
+    <updated>2015-11-13T11:22:37.914Z</updated>
+    <content type="html"><![CDATA[<p>The list will be from Most important to Little Less Important:</p>
+<ol>
+<li><p>Before you use someone else&#039;s code or distribute your own code, be aware of the licenses;</p>
+<ul>
+<li><span class="qlink_container"><a href="http://www.smashingmagazine.com/2011/06/understanding-copyright-and-licenses/" target="_blank" rel="external">http://www.smashingmagazi<wbr>ne.com/…</a></span></li>
+<li>Very Precise : <span class="qlink_container"><a href="http://choosealicense.com/licenses/" target="_blank" rel="external">Licenses - Choose a License</a></span></li>
+<li>Time to learn: 20 minutes; Difficulty: Easy</li>
+</ul>
+</li>
+<li><p><strong>Regex; </strong>Anytime you search for something in a text file, you need to know regex to find out exactly what your need. <strong>Helps in using finite automata knowledge practically.</strong></p>
+<ul>
+<li><span class="qlink_container"><a href="http://regexone.com" target="_blank" rel="external">Lesson 1: An Introduction, and the ABCs</a></span></li>
+<li><p><span class="qlink_container"><a href="http://www.regexr.com/" target="_blank" rel="external">Learn, Build, &amp; Test RegEx </a></span>Start with Tutorial video then go to References section</p>
+<ul>
+<li>Time to learn: 30 minutes; Difficulty: Intermediate</li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>The list will be from Most important to Little Less Important:</p>
+<ol>
+<li><p>Before you use someone else&#039;s code or distribute your]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Frontend Development]]></title>
+    <link href="/2015/10/28/Frontend-Development/"/>
+    <id>/2015/10/28/Frontend-Development/</id>
+    <published>2015-10-28T10:29:04.000Z</published>
+    <updated>2015-11-13T11:22:37.914Z</updated>
+    <content type="html"><![CDATA[<p>Designing a Home Page</p>
+<ol>
+<li>Use grids to divide page into rows &amp; columns <span class="qlink_container"><a href="http://www.w3schools.com/bootstrap/bootstrap_grid_basic.asp" target="_blank" rel="external">Bootstrap Grid Basic</a></span></li>
+<li><ul>
+<li>Create Banner. Width: 1130px, height: 120px in Inkscape</li>
+<li>Add responsiveness to the image <span class="qlink_container"><a href="http://www.w3schools.com/bootstrap/bootstrap_ref_css_images.asp" target="_blank" rel="external">Bootstrap CSS Images Reference</a></span></li>
+<li>Add Background color &amp; transparency <span class="qlink_container"><a href="http://stackoverflow.com/questions/637921/opacity-of-background-color-but-not-the-text" target="_blank" rel="external">Opacity of background-color, but not the text</a></span></li>
+</ul>
+</li>
+<li><ul>
+<li>Add Navbar; glyphicons <span class="qlink_container"><a href="http://www.w3schools.com/bootstrap/bootstrap_ref_comp_glyphs.asp" target="_blank" rel="external">Bootstrap Glyphicon Components</a></span></li>
+<li>Add right side, modify padding-right if required.</li>
+</ul>
+</li>
+<li>Add Slider(Carousel)</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Designing a Home Page</p>
+<ol>
+<li>Use grids to divide page into rows &amp; columns <span class="qlink_container"><a href="http://www.w3s]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Evernote in Linux]]></title>
+    <link href="/2015/10/27/Evernote-in-Linux/"/>
+    <id>/2015/10/27/Evernote-in-Linux/</id>
+    <published>2015-10-27T13:26:15.000Z</published>
+    <updated>2015-11-13T11:22:37.930Z</updated>
+    <content type="html"><![CDATA[<p>Everpad: Note creation not allowed<br>NixNote: Has problems in synchronization<br>Evernote on Wine: Doesn&#039;t allow editing of a note.</p>
+<p>NeighborNote works good. Is open source.</p>
+<p><span class="qlink_container"><a href="https://neighbornote.herokuapp.com/en/index.html#home" target="_blank" rel="external">NeighborNote</a></span></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Everpad: Note creation not allowed<br>NixNote: Has problems in synchronization<br>Evernote on Wine: Doesn&#039;t allow editing of a note.]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Shortcuts in Windows]]></title>
+    <link href="/2015/10/13/Shortcuts-in-Windows/"/>
+    <id>/2015/10/13/Shortcuts-in-Windows/</id>
+    <published>2015-10-13T09:24:33.000Z</published>
+    <updated>2015-11-13T11:22:37.914Z</updated>
+    <content type="html"><![CDATA[<p>I find out few shortcut keys that one can use in daily life to increase productivity &amp; made a wallpaper based on them with the help of GIMP.<br>While making the list of shortcuts I kept these points in mind:</p>
+<ol>
+<li>The list of shortcuts should be exhaustive; no useful shortcut key should be left behind.</li>
+<li>Not spam the list by adding shortcuts which were intuitive. Example: Windows+Ctrl+Right moves to next desktop, then Windows+Ctrl+Left will move to previous desktop, hence it is not included in list.<div class="qtext_image_wrapper"><img src="https://qph.is.quoracdn.net/main-qimg-b63f7306cc7d985e68c140f64997be01?convert_to_webp=true" alt=""></div><br>It is a rough wallpaper, following is the link of GIMP file which can be edited.<br><span class="qlink_container"><a href="https://drive.google.com/file/d/0B3s6O9XSC4WmWFZSZG5Ta3ZsOFk/view?usp=sharing" target="_blank" rel="external">Shortcuts.xcf</a></span><br>Feel free to modify, distribute &amp; Do not forget to share your creation. :)</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>I find out few shortcut keys that one can use in daily life to increase productivity &amp; made a wallpaper based on them with the help o]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Amazon Kindle: Tips & Tricks]]></title>
+    <link href="/2015/10/11/Amazon-Kindle-Tips-Tricks/"/>
+    <id>/2015/10/11/Amazon-Kindle-Tips-Tricks/</id>
+    <published>2015-10-11T13:30:28.000Z</published>
+    <updated>2015-11-13T11:22:37.935Z</updated>
+    <content type="html"><![CDATA[<ol>
+<li>Fastest way to send content to kindle:&nbsp; <span class="qlink_container"><a href="http://www.amazon.com/gp/sendtokindle" target="_blank" rel="external">Amazon.com: Send to Kindle</a></span></li>
+<li>Take screenshot: simultaneously press bottom left &amp; top right corner of screen</li>
+<li><ul>
+<li>Best practice for sending a pdf to kindle:</li>
+<li><ul>
+<li>Update cover &amp; metadata in Calibre</li>
+<li>send pdf to <span class="qlink_container"><a href="mailto:username@free.kindle.com" target="_blank" rel="external">username@free.kindle.com
+</a></span></li>
+<li>pdf converted to azw3 format is received in mail</li>
+<li>download &amp; open in calibre</li>
+<li>modify TOC {see 4th point}</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><ul>
+<li>Adding TOC to book</li>
+<li><ul>
+<li><p>In calibre, Copy book from kindle to pc using calibre</p>
+<pre><code>*   Open edit toc (add this option <span class="keyword">to</span> main toolbar <span class="keyword">by</span>; preferences<span class="subst">&amp;</span><span class="literal">gt</span>;interface<span class="subst">&amp;</span><span class="literal">gt</span>;too&lt;wbr /&gt;lbar<span class="subst">&amp;</span><span class="literal">gt</span>;the main toolbar)
+</code></pre></li>
+<li>Generate Toc from links</li>
+<li>Indent TOC by selecting &amp; <u>dragging-dropping.</u></li>
+<li>Save TOC &amp; save to device.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Adding cover &amp; metadata {easy}</li>
+<li>Observations after converting a book in pdf book to different formats:<div class="qtext_image_wrapper"><img src="https://qph.is.quoracdn.net/main-qimg-e86db07c780edd749f956f4739f4b96b?convert_to_webp=true" alt=""></div></li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ol>
+<li>Fastest way to send content to kindle:&nbsp; <span class="qlink_container"><a href="http://www.amazon.com/gp/sendtokindle" target="]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Using SQLite]]></title>
+    <link href="/2015/10/08/Using-SQLite/"/>
+    <id>/2015/10/08/Using-SQLite/</id>
+    <published>2015-10-08T12:02:58.000Z</published>
+    <updated>2015-11-13T11:22:37.914Z</updated>
+    <content type="html"><![CDATA[<ul>
+<li>Comes packaged as C++ library</li>
+<li>Download shell &amp; dll, place in C:\sqlite\, set environment variable to C:\sqlite [1] [2]<br>References:<br>[1]<span class="qlink_container"><a href="https://www.sqlite.org/download.html" target="_blank" rel="external">SQLite Download Page</a></span><br>[2]<span class="qlink_container"><a href="http://www.tutorialspoint.com/sqlite/sqlite_installation.htm" target="_blank" rel="external">SQLite - Installation</a></span></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ul>
+<li>Comes packaged as C++ library</li>
+<li>Download shell &amp; dll, place in C:\sqlite\, set environment variable to C:\sqlite [1] [2]]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Website based on Strapdown.js]]></title>
+    <link href="/2015/10/08/Website-based-on-Strapdown-js/"/>
+    <id>/2015/10/08/Website-based-on-Strapdown-js/</id>
+    <published>2015-10-08T10:28:24.000Z</published>
+    <updated>2015-11-13T11:22:37.930Z</updated>
+    <content type="html"><![CDATA[<ul>
+<li><p>A <strong>webserver is required to Run the javascript</strong> in a browser. [1]</p>
+</li>
+<li><ul>
+<li>Apache is available only as source code on Apache website</li>
+<li>Xampp provides Apache as binary.</li>
+<li>Xampp provides many server: Apache, Tomcat(Server for Java code), MySql, Filezilla, Mercury Mail; out of which only Apache is required.References:<br>[1] <span class="qlink_container"><a href="http://stackoverflow.com/questions/7717382/executing-a-javascript-file-directly-from-the-browser" target="_blank" rel="external">http://stackoverflow.com/<wbr>questio…</a></span></li>
+</ul>
+</li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ul>
+<li><p>A <strong>webserver is required to Run the javascript</strong> in a browser. [1]</p>
+</li>
+<li><ul>
+<li>Apache is available only]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Learning Autohotkey]]></title>
+    <link href="/2015/10/08/Learning-Autohotkey/"/>
+    <id>/2015/10/08/Learning-Autohotkey/</id>
+    <published>2015-10-08T05:53:33.000Z</published>
+    <updated>2015-11-13T11:22:37.931Z</updated>
+    <content type="html"><![CDATA[<p>AutoHotkey in windows helps in automation by a script.<br>It can:</p>
+<ol>
+<li>Build GUI</li>
+<li><p>Manipulate windows components (Cycle through png, jped only while saving the document)</p>
+</li>
+<li><p>Remap Mouse(or Keyboard) keys<br>Example: You may be accustomed for Ctrl+ Alt + T to open command prompt in linux, but this doesn&#039;t work in windows.<br>One can use following script to do that.<br><span class="qlink_container"><a href="https://gist.github.com/xerosanyam/f46a848edb4945911ae5" target="_blank" rel="external">Autohotkey Script.</a></span></p>
+</li>
+</ol>
+<p>References:<br><span class="qlink_container"><a href="http://ahkscript.org/docs/commands/index.htm" target="_blank" rel="external">Alphabetical Command and Function Index</a></span></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>AutoHotkey in windows helps in automation by a script.<br>It can:</p>
+<ol>
+<li>Build GUI</li>
+<li><p>Manipulate windows components (Cycle]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Coding projects that can be given to a College Student]]></title>
+    <link href="/2015/10/07/Coding-projects-that-can-be-given-to-a-College-Student/"/>
+    <id>/2015/10/07/Coding-projects-that-can-be-given-to-a-College-Student/</id>
+    <published>2015-10-07T05:14:14.000Z</published>
+    <updated>2015-11-13T11:22:37.930Z</updated>
+    <content type="html"><![CDATA[<ol>
+<li>Development of a feature of some open source tool; Example: Adding features for text formatting in Red Notebook</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ol>
+<li>Development of a feature of some open source tool; Example: Adding features for text formatting in Red Notebook</li>
+</ol>
+]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Things to do after Windows Installation]]></title>
+    <link href="/2015/10/07/Things-to-do-after-Windows-Installation/"/>
+    <id>/2015/10/07/Things-to-do-after-Windows-Installation/</id>
+    <published>2015-10-07T05:11:56.000Z</published>
+    <updated>2015-11-13T11:22:37.934Z</updated>
+    <content type="html"><![CDATA[<ol>
+<li><p>Install evernote <span class="qlink_container"><a href="https://evernote.com/evernote/" target="_blank" rel="external">Evernote | Evernote</a></span></p>
+</li>
+<li><p>Install Ext2 file system driver for Windows too access Linux files in Windows <span class="qlink_container"><a href="http://sourceforge.net/projects/ext2fsd/" target="_blank" rel="external">Ext2 File System Driver for Windows</a></span></p>
+</li>
+<li>Install Red Notebook <span class="qlink_container"><a href="http://rednotebook.sourceforge.net/" target="_blank" rel="external">RedNotebook</a></span></li>
+<li>Install AutoHotkey, along with its script <span class="qlink_container"><a href="https://gist.github.com/xerosanyam/f46a848edb4945911ae5" target="_blank" rel="external">Autohotkey Script. Opens cmd with Ctrl+Alt+T</a></span></li>
+<li>[important] Use symbolic links &amp; Dropbox to keep important stuff in sync between windows, linux &amp; cloud. <span class="qlink_container"><a href="http://www.howtogeek.com/194431/how-to-sync-any-folder-to-the-cloud-with-symbolic-links/" target="_blank" rel="external">How to Sync Any Folder to the Cloud With Symbolic Links</a></span></li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ol>
+<li><p>Install evernote <span class="qlink_container"><a href="https://evernote.com/evernote/" target="_blank" rel="external">Evernote ]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Interesting Stuff on the Internet]]></title>
+    <link href="/2015/10/07/Interesting-Stuff-on-the-Internet/"/>
+    <id>/2015/10/07/Interesting-Stuff-on-the-Internet/</id>
+    <published>2015-10-07T05:05:17.000Z</published>
+    <updated>2015-11-13T11:22:37.931Z</updated>
+    <content type="html"><![CDATA[<ol>
+<li><p><span class="qlink_container"><a href="http://oneredpaperclip.blogspot.in/" target="_blank" rel="external">one red paperclip</a></span></p>
+</li>
+<li><p><span class="qlink_container"><a href="http://mashable.com/2015/09/22/drones-build-bridge/" target="_blank" rel="external">Watch drones build a bridge you can actually walk over</a></span></p>
+</li>
+<li><span class="qlink_container"><a href="https://en.wikipedia.org/wiki/List_of_Internet_phenomena" target="_blank" rel="external">List of Internet phenomena</a></span></li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ol>
+<li><p><span class="qlink_container"><a href="http://oneredpaperclip.blogspot.in/" target="_blank" rel="external">one red paperclip</a>]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Learnings]]></title>
+    <link href="/2015/09/27/Learnings/"/>
+    <id>/2015/09/27/Learnings/</id>
+    <published>2015-09-27T05:23:01.000Z</published>
+    <updated>2015-11-13T11:22:37.931Z</updated>
+    <content type="html"><![CDATA[<ul>
+<li>Set PYTHONPATH</li>
+<li><ul>
+<li>gedit ~/.bashrc</li>
+<li>PYTHONPATH=&quot;${PYTHONPATH}<wbr>:/path/to/some/cool/pytho<wbr>n/package/:/path/to/anoth<wbr>er/cool/python/package/&quot;<br>export PYTHONPATH</li>
+</ul>
+</li>
+<li>Increase output size that can be seen on terminal</li>
+<li><ul>
+<li>Right click, profile, profile preferences, scrolling, scroll back, unlimited.</li>
+</ul>
+</li>
+<li>Show output&nbsp; on screen as well as store on a file</li>
+<li><ul>
+<li>echo &quot;Hello World&quot; | tee -a log.txt</li>
+</ul>
+</li>
+<li><span class="qlink_container"><a href="https://ideamachine.quora.com/rss" target="_blank" rel="external">https://ideamachine.quora<wbr>.com/rss</a></span></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ul>
+<li>Set PYTHONPATH</li>
+<li><ul>
+<li>gedit ~/.bashrc</li>
+<li>PYTHONPATH=&quot;${PYTHONPATH}<wbr>:/path/to/some/cool/pytho<wbr>n/packag]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Genymotion; (Emulator for Android)]]></title>
+    <link href="/2015/09/18/Genymotion-Emulator-for-Android/"/>
+    <id>/2015/09/18/Genymotion-Emulator-for-Android/</id>
+    <published>2015-09-18T06:19:37.000Z</published>
+    <updated>2015-11-13T11:22:37.931Z</updated>
+    <content type="html"><![CDATA[<p>After installing genymotion, when I tried to build{download} a virtual drive, it gave me file corrupt error. Following is the solution I found:<br>1. Remove all virtual box installation before installing genymotion.<br>2. Remove all files from appdata\genymotion\ folder<br>3. Download genymotion virtual drive externally. { Will update the link soon}<br>4. Copy this to appdata\genymotion~\ova\&nbsp; folder.<br>5. Install genymotion.<br>6. Add virtual device, choose the same device as you had downloaded in step 3.<br>7. It will automatically detect the device.<br>8. Start the device.<br>9. If may give some error {happens almost everytime}, start device from virtual box.<br>10. It may also give error, close device. Start again. Again error, then switch off the device.<br>11. Now, start device from genymotion.<br>12. I have to follow steps 8-11 everytime I start device from genymotion, since it is fast, and provides multiple features, I feel it is worth it.</p>
+<p>If you happen to find any emulator better than genymotion, please comment. :)</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>After installing genymotion, when I tried to build{download} a virtual drive, it gave me file corrupt error. Following is the solution I ]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[SSD HDD Benchmarks]]></title>
+    <link href="/2015/09/11/SSD-HDD-Benchmarks/"/>
+    <id>/2015/09/11/SSD-HDD-Benchmarks/</id>
+    <published>2015-09-11T16:12:47.000Z</published>
+    <updated>2015-11-13T11:22:37.931Z</updated>
+    <content type="html"><![CDATA[<p>Replaced internal HDD with SSD.<br>Made External HDD using Transcend Enclosure.</p>
+<p>Write speed on SSD: consistent, 94 MB/s<br>Write speed on HDD: dropping linearly from 94 MB/s</p>
+<p>Awesome Experience :)<br>Total cost: 5500 Rs.<br>Total Memory: 120GB SSD internal. 500 GB USB 3.0 External.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Replaced internal HDD with SSD.<br>Made External HDD using Transcend Enclosure.</p>
+<p>Write speed on SSD: consistent, 94 MB/s<br>Write s]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Git + Gitg]]></title>
+    <link href="/2015/08/22/Git-Gitg/"/>
+    <id>/2015/08/22/Git-Gitg/</id>
+    <published>2015-08-22T07:21:59.000Z</published>
+    <updated>2015-11-13T11:22:37.931Z</updated>
+    <content type="html"><![CDATA[<p>Gitg is an easy to use, cool repository visualiser.<br>Also, you do not need to go to cmd line to write commands again &amp; again.</p>
+<p>1. git init inside some folder<br>2. Open gitg for that folder.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Gitg is an easy to use, cool repository visualiser.<br>Also, you do not need to go to cmd line to write commands again &amp; again.</p>
+<]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Understanding how a program runs on a webserver better]]></title>
+    <link href="/2015/08/22/Understanding-how-a-program-runs-on-a-webserver-better/"/>
+    <id>/2015/08/22/Understanding-how-a-program-runs-on-a-webserver-better/</id>
+    <published>2015-08-22T07:20:13.000Z</published>
+    <updated>2015-11-13T11:22:37.931Z</updated>
+    <content type="html"><![CDATA[<p>1. Set up XAMPP (or a webserver) on your machine.<br><span class="qlink_container"><a href="http://askubuntu.com/questions/529500/how-to-start-xampp-gui" target="_blank" rel="external">How to start xampp GUI</a></span></p>
+<p>2. Location of htdocs is /opt/lampp/htdocs<br>This is where you keep your program.</p>
+<p>3. Learn about CGI<br><span class="qlink_container"><a href="https://en.wikipedia.org/wiki/Common_Gateway_Interface" target="_blank" rel="external">Common Gateway Interface</a></span></p>
+<p>4. Use this as a reference.<br><span class="qlink_container"><a href="https://www.cs.tut.fi/~jkorpela/forms/cgic.html" target="_blank" rel="external">Getting Started with CGI Programming in C</a></span></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>1. Set up XAMPP (or a webserver) on your machine.<br><span class="qlink_container"><a href="http://askubuntu.com/questions/529500/how-to-]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Hackerrank Tricks]]></title>
+    <link href="/2015/08/14/Hackerrank-Tricks/"/>
+    <id>/2015/08/14/Hackerrank-Tricks/</id>
+    <published>2015-08-14T15:06:10.000Z</published>
+    <updated>2015-11-13T11:22:37.931Z</updated>
+    <content type="html"><![CDATA[<ol>
+<li>Use ctrl+space to generate suggestions.</li>
+<li>Use the given coding platform to find &#039;output&#039; of some answers.</li>
+<li>Use custom input to check for boundary cases.</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ol>
+<li>Use ctrl+space to generate suggestions.</li>
+<li>Use the given coding platform to find &#039;output&#039; of some answers.</li>
+<li]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Connect bluetooth headset to Linux Mint]]></title>
+    <link href="/2015/08/14/Connect-bluetooth-headset-to-Linux-Mint/"/>
+    <id>/2015/08/14/Connect-bluetooth-headset-to-Linux-Mint/</id>
+    <published>2015-08-14T05:29:40.000Z</published>
+    <updated>2015-11-13T11:22:37.931Z</updated>
+    <content type="html"><![CDATA[<ol>
+<li>Install pulse audio</li>
+<li>go to configurations</li>
+<li>choose high fidelity playback for headset</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ol>
+<li>Install pulse audio</li>
+<li>go to configurations</li>
+<li>choose high fidelity playback for headset</li>
+</ol>
+]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Update gcc (for Hackerrank, etc)]]></title>
+    <link href="/2015/08/03/Update-gcc-for-Hackerrank-etc/"/>
+    <id>/2015/08/03/Update-gcc-for-Hackerrank-etc/</id>
+    <published>2015-08-03T09:28:00.000Z</published>
+    <updated>2015-11-13T11:22:37.931Z</updated>
+    <content type="html"><![CDATA[<ol>
+<li>Install gcc</li>
+<li><div class="qtext_image_wrapper"><img src="https://qph.is.quoracdn.net/main-qimg-68f5dfa0c980f422aca50dc16c800665?convert_to_webp=true" alt=""></div></li>
+<li>for C compilation nothing needs to be updated.</li>
+<li>for C++, in geany, build is to be set to g++ -std=c++11 -Wall -o &quot;%e&quot; &quot;%f&quot;</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ol>
+<li>Install gcc</li>
+<li><div class="qtext_image_wrapper"><img src="https://qph.is.quoracdn.net/main-qimg-68f5dfa0c980f422aca50dc16c800]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Convert Bullets to Numbers in GeeksforGeeks]]></title>
+    <link href="/2015/07/12/Convert-Bullets-to-Numbers-in-GeeksforGeeks/"/>
+    <id>/2015/07/12/Convert-Bullets-to-Numbers-in-GeeksforGeeks/</id>
+    <published>2015-07-12T07:24:37.000Z</published>
+    <updated>2015-11-13T11:22:37.931Z</updated>
+    <content type="html"><![CDATA[<ol>
+<li>Install <strong>Greasemonkey</strong> @<span class="qlink_container"><a href="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/" target="_blank" rel="external">Greasemonkey</a></span> for Firefox or <strong>Tampermonkey</strong> @<span class="qlink_container"><a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en" target="_blank" rel="external">Tampermonkey</a></span> for Chrome or <strong>GreaseKit</strong> @<span class="qlink_container"><a href="http://www.macupdate.com/app/mac/20718/greasekit" target="_blank" rel="external">GreaseKit for Mac</a></span> for Safari.</li>
+<li><p>If using firefox, make sure you <strong>Restart</strong> your browser, before continuing further.</p>
+</li>
+<li><p>Go to this page and click on <strong>Raw</strong> to install the script <span class="qlink_container"><a href="https://gist.github.com/xerosanyam/3139875b34b29628b2cc" target="_blank" rel="external">xerosanyam/GeeksForGeeks Bullets to Numbers.user.js</a></span><div class="qtext_image_wrapper"><img src="https://qph.is.quoracdn.net/main-qimg-dd5baf8a52467be34940224f61249844?convert_to_webp=true" alt=""></div></p>
+</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ol>
+<li>Install <strong>Greasemonkey</strong> @<span class="qlink_container"><a href="https://addons.mozilla.org/en-US/firefox/addon/grease]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Making Geany more powerful; Settings for Geany]]></title>
+    <link href="/2015/06/28/Making-Geany-more-powerful-Settings-for-Geany/"/>
+    <id>/2015/06/28/Making-Geany-more-powerful-Settings-for-Geany/</id>
+    <published>2015-06-28T11:41:55.000Z</published>
+    <updated>2015-11-13T11:22:37.931Z</updated>
+    <content type="html"><![CDATA[<p>Geany is a lightweight, fully customizable IDE that I use on linux. It makes coding a breeze. :)</p>
+<ol>
+<li>Insert date and time. Default Key: Shift+Alt+Delete. Set custom date format as : //#%d %b, %a; %I:%M %p. This prints 28 Jun, Sun; 4:30 PM. For more options see <span class="qlink_container"><a href="http://www.cplusplus.com/reference/ctime/strftime/" target="_blank" rel="external">http://www.cplusplus.com/<wbr>referen…</a></span></li>
+<li><p>Document-&gt;Use auto-indentation, Line Wrapping</p>
+</li>
+<li><p>View-&gt;Show markers margin, show line numbers, show white spaces.</p>
+</li>
+<li>Preferences-&gt; Comment Alt+C, Uncomment Alt+V.</li>
+<li>Preferences-&gt;various-&gt;com<wbr>piler tab autoscroll(NO), messages(n),scribble(n),s<wbr>tatus(n)</li>
+<li><p>Set Debug and Execute Debugging commands in Build Menu-&gt;Set Build Commands. <strong>Ensure you write separately for gcc and g++.</strong></p>
+</li>
+<li><p>Set build shortcut as F9, not Compile&#039;s options.</p>
+<div class="qtext_image_wrapper"><img src="https://qph.is.quoracdn.net/main-qimg-8541be3c92c59d3d21600c0c16ffdc42?convert_to_webp=true" alt=""></div></li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Geany is a lightweight, fully customizable IDE that I use on linux. It makes coding a breeze. :)</p>
+<ol>
+<li>Insert date and time. Defau]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[How to make a Twitter Bot]]></title>
+    <link href="/2015/06/26/How-to-make-a-Twitter-Bot/"/>
+    <id>/2015/06/26/How-to-make-a-Twitter-Bot/</id>
+    <published>2015-06-26T11:38:43.000Z</published>
+    <updated>2015-11-13T11:22:37.932Z</updated>
+    <content type="html"><![CDATA[<p>Depends on the type of bot you want to make.<br>If you want to make an &quot;okay Google&quot; kind of bot which replies back when you ask it some question, then labnol has a really nice article.</p>
+<p>If you want to make a bot that keeps tweeting about some event, then there are many ways to do that:</p>
+<ol>
+<li>Use IFTTT</li>
+<li>Use google scripts from labnol</li>
+<li>Use package nTwitter for nodejs</li>
+<li>Use some package for python.</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Depends on the type of bot you want to make.<br>If you want to make an &quot;okay Google&quot; kind of bot which replies back when you as]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Excerpt from Venkat Padmanabhan's Talk]]></title>
+    <link href="/2015/04/21/Excerpt-from-Venkat-Padmanabhan-s-Talk/"/>
+    <id>/2015/04/21/Excerpt-from-Venkat-Padmanabhan-s-Talk/</id>
+    <published>2015-04-21T15:32:36.000Z</published>
+    <updated>2015-11-13T11:22:37.932Z</updated>
+    <content type="html"><![CDATA[<blockquote>
+<p>Indoors is where people spend most of their time and money</p>
+</blockquote>
+<ul>
+<li>India is developing its own regional navigation system: IRNSS</li>
+<li><ul>
+<li>Why GPS is not good for localization?</li>
+<li>Very weak signal</li>
+<li>High energy cost</li>
+</ul>
+</li>
+<li><ul>
+<li>Needs in Localization</li>
+<li>Low cost</li>
+<li>Ubiquitous : Use existing infrastructure</li>
+<li>Out of the box: Calibration free</li>
+<li>Accurate: Fine grained sensing</li>
+</ul>
+</li>
+<li><ul>
+<li>Sensing Techniques</li>
+<li><ul>
+<li>Infrared</li>
+<li>Blocked by Walls, Glass. (Low cost, But not Ubiquitous and Accurate)</li>
+</ul>
+</li>
+<li>Acoustic</li>
+<li>Inertial</li>
+<li>Visual</li>
+<li>Radio Frequency</li>
+</ul>
+</li>
+<li><ul>
+<li>RADAR Project</li>
+<li>Piggyback on wifi signals</li>
+<li><ol>
+<li>Offline Calibration (Tabulate &lt;(x,y), &lt;RSS1, RSS2, … &gt; &gt;)</li>
+<li>Online Matching</li>
+</ol>
+</li>
+</ul>
+</li>
+<li><ul>
+<li>Energy consumption by various sensors(approx)</li>
+<li>Phone(Idle) 183watts</li>
+<li>GPS 617</li>
+<li>Microphone 223</li>
+<li>Accelerometer 240</li>
+<li>Bluetooth 170</li>
+<li>Wifi(Idle) 772</li>
+</ul>
+</li>
+<li><p>Use cheap sensor frequently, and expensive sensor selectively.(In terms of power consumption)</p>
+</li>
+<li><p>When phone is stationary accelerometer gives 1g (gravitational force)</p>
+</li>
+<li>BMTC app, an incentive for driver to drive better. (Like who drove best among all drivers; on a day)</li>
+<li>Crowd sourcing is used instead of paying someone.This talk was conducted on 20th April 2015 during Techno Economics Class.</li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<blockquote>
+<p>Indoors is where people spend most of their time and money</p>
+</blockquote>
+<ul>
+<li>India is developing its own regional n]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Things learnt while developing Chrome Extension]]></title>
+    <link href="/2015/04/18/Things-learnt-while-developing-Chrome-Extension/"/>
+    <id>/2015/04/18/Things-learnt-while-developing-Chrome-Extension/</id>
+    <published>2015-04-18T11:07:59.000Z</published>
+    <updated>2015-11-13T11:22:37.932Z</updated>
+    <content type="html"><![CDATA[<ol>
+<li>Insert alert(&quot;Some text here&quot;); at above of all the js files in your chrome extension. This helps in making understand that which js loads when. Example:&gt; &gt; background.js: Loads every time an extension is reloaded. (Need to reload extension after modifying this)&gt; content.js: Loads every time you open a new tab. (Need to reload extension after modifying this)&gt; popup,js: Loads every time you click on the extension(No need to reload extension after modifying this)&gt; options.js: Loads every time you open options.2. reponseText must be used inplace of responseXML if the url doesn&#039;t contain .xml in end.<br>3. While storing values in local storage of chrome : <span class="qlink_container"><a href="http://stackoverflow.com/questions/11508463/javascript-set-object-key-by-variable" target="_blank" rel="external">JavaScript set object key by variable</a></span></li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ol>
+<li>Insert alert(&quot;Some text here&quot;); at above of all the js files in your chrome extension. This helps in making understand th]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Things to do after Linux Mint 17 Installation]]></title>
+    <link href="/2015/04/18/Things-to-do-after-Linux-Mint-17-Installation/"/>
+    <id>/2015/04/18/Things-to-do-after-Linux-Mint-17-Installation/</id>
+    <published>2015-04-18T06:04:39.000Z</published>
+    <updated>2015-11-13T11:22:37.932Z</updated>
+    <content type="html"><![CDATA[<p>In following paragraphs, Storage(NTFS format) refers to a drive that is being shared between Windows and Mint.</p>
+<ol>
+<li><p>Change keyboard layout to use Num Key as in windows(Miscellenous-&gt;Win<wbr>dows)</p>
+</li>
+<li><p>Delete Downloads, Music, Video folders, etc and Drag and Drop same Folders from Storage Drive to the side pane.</p>
+</li>
+<li>If firefox doesn&#039;t support Google, add an Addon. <span class="qlink_container"><a href="https://addons.mozilla.org/en-US/firefox/addon/google-default/?src=search" target="_blank" rel="external">Google Default</a></span>4.  Fix Boot. <div class="codeblock inline_codeblock"><pre><span class="">sudo update</span></pre></div>. Install <span class="qlink_container"><a href="https://help.ubuntu.com/community/Boot-Repair" target="_blank" rel="external">Boot-Repair - Community Help Wiki</a></span></li>
+<li>Install Chrome. Download chrome from website, <div class="codeblock inline_codeblock"><pre><span class="">sudo dpkg -i google-chrome-stable_current_i386.deb</span></pre></div></li>
+<li>Set Download locations of chrome and firefox to Storage-&gt;Downloads-&gt;Chrom<wbr>e</li>
+<li>Install Geany IDE. <div class="codeblock inline_codeblock"><pre><span class="">sudo apt-get install geany</span></pre></div></li>
+<li>Install libraries for C compilation. <div class="codeblock inline_codeblock"><pre><span class="">sudo apt-get install build-essential</span></pre></div></li>
+<li>If brightness buttons don&#039;t work. <span class="qlink_container"><a href="http://itsfoss.com/fix-brightness-ubuntu-1310/" target="_blank" rel="external">Fix Brightness Control Not Working for Ubuntu 14.04 &amp; Linux Mint 17</a></span></li>
+<li>Install atom text editor. <span class="qlink_container"><a href="http://itsfoss.com/install-atom-text-editor-ubuntu-1404-linux-mint-17/" target="_blank" rel="external">Install Atom Text Editor In Ubuntu 14.04 &amp; Linux Mint 17</a></span></li>
+<li>Install Oracle Java. <span class="qlink_container"><a href="http://community.linuxmint.com/tutorial/view/1839" target="_blank" rel="external">How to Completely Install Oracle JDK on Linux Mint 17</a></span>. <div class="codeblock inline_codeblock"><pre><span class="">wget –no-check-certificate –no-cookies –header &quot;Cookie: oraclelicense=accept-securebackup-cookie&quot; &lt;Download URL&gt;</span></pre></div></li>
+<li><ol>
+<li>Applets in Panel</li>
+<li><p>Screenshot screenshot@tech71</p>
+<ol>
+<li><p>Multicore System Monitor multicore-sys-monitor@cca<wbr>deptic23 sudo apt-get install gir1.2-gtop-2.0</p>
+</li>
+<li><p>Shutdown applet shutdownapplet@shelley</p>
+</li>
+<li><p>System monitor with graphs system-monitor@pixunIII</p>
+</li>
+<li><p>custom places customplaces@llobera</p>
+</li>
+</ol>
+</li>
+<li><blockquote>
+<blockquote>
+<blockquote>
+<p>Custom Places&gt; [&gt; &nbsp;&nbsp;&nbsp; { &quot;path&quot;:&quot;/&quot;, &quot;iconName&quot;:&quot;user-home&quot; },&gt; &nbsp;&nbsp;&nbsp; { &quot;path&quot;:&quot;/media/sanyam/Sto<wbr>rage&quot;, &quot;iconName&quot;:&quot;harddrive&quot; },&gt; &nbsp;&nbsp;&nbsp; { &quot;path&quot;:&quot;S&quot; },&gt; &nbsp;&nbsp;&nbsp; { &quot;path&quot;:&quot;/media/sanyam/Sto<wbr>rage/Documents&quot;, &quot;iconName&quot;:&quot;folder-docume<wbr>nts&quot; },&gt; &nbsp;&nbsp;&nbsp; { &quot;path&quot;:&quot;/media/sanyam/Sto<wbr>rage/Downloads&quot;, &quot;iconName&quot;:&quot;folder-downlo<wbr>ads&quot; },&gt; &nbsp;&nbsp;&nbsp; { &quot;path&quot;:&quot;/media/sanyam/Sto<wbr>rage/Music&quot;, &quot;iconName&quot;:&quot;folder-music&quot; },&gt; &nbsp;&nbsp;&nbsp; { &quot;path&quot;:&quot;/media/sanyam/Sto<wbr>rage/Pictures&quot;, &quot;iconName&quot;:&quot;folder-pictur<wbr>es&quot; }&gt; ]</p>
+</blockquote>
+</blockquote>
+</blockquote>
+</li>
+<li>pomedoro</li>
+</ol>
+</li>
+<li>To prettify GRUB <span class="qlink_container"><a href="https://sites.google.com/site/easylinuxtipsproject/beautifygrub" target="_blank" rel="external">Make your Grub boot menu pretty - Easy Linux tips project</a></span></li>
+<li>To auto mount Drives <div class="codeblock inline_codeblock"><pre><span class="">sudo apt-get install ntfs-config</span></pre></div></li>
+<li>Set Mint to use local time.(keeps windows and ubuntu time sync) <div class="codeblock inline_codeblock"><pre><span class="">sudo sed -i &#039;s/UTC=yes/UTC=no/&#039; /etc/default/rcS</span></pre></div></li>
+<li>To install latex <span class="qlink_container"><a href="http://forums.linuxmint.com/viewtopic.php?f=42&amp;t=170852" target="_blank" rel="external">How to: Get LaTeX running on Linux Mint</a></span>. Install the mentioned packages using a package manager. Use the following template for your paper.</li>
+<li>Use Evernote for Linux by NeighborNote&nbsp; <span class="qlink_container"><a href="https://neighbornote.herokuapp.com/" target="_blank" rel="external">NeighborNote</a></span></li>
+<li>[<strong>important</strong>] Use symbolic links &amp; Dropbox to keep important stuff in sync between windows, linux &amp; cloud. <span class="qlink_container"><a href="http://www.howtogeek.com/194431/how-to-sync-any-folder-to-the-cloud-with-symbolic-links/" target="_blank" rel="external">How to Sync Any Folder to the Cloud With Symbolic Links</a></span>References:<br><span class="qlink_container"><a href="http://lifehacker.com/5403100/dual-boot-windows-7-and-ubuntu-in-perfect-harmony" target="_blank" rel="external">Dual-Boot Windows 7 and Ubuntu in Perfect Harmony</a></span><br><span class="qlink_container"><a href="http://www.webupd8.org/2014/09/dual-boot-fix-time-differences-between.html" target="_blank" rel="external">Dual Boot: Fix Time Differences Between Ubuntu And Windows</a></span></li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>In following paragraphs, Storage(NTFS format) refers to a drive that is being shared between Windows and Mint.</p>
+<ol>
+<li><p>Change key]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[You and Your Research]]></title>
+    <link href="/2015/04/07/You-and-Your-Research/"/>
+    <id>/2015/04/07/You-and-Your-Research/</id>
+    <published>2015-04-07T06:26:03.000Z</published>
+    <updated>2015-11-13T11:22:37.932Z</updated>
+    <content type="html"><![CDATA[<ol>
+<li><code>Why?&amp;#039;&amp;#039; and</code>What is the difference?&#039;&#039; I continued subsequently by reading biographies, autobiographies, asking people questions such as: ``How did you come to do this?&#039;&#039; I tried to find out what are the differences. And that&#039;s what this talk is about.</li>
+<li><p>Now, why is this talk important? I think it is important because, as far as I know, each of you has one life to live</p>
+</li>
+<li><p>Why shouldn&#039;t you do significant things in this one life, however you define significant.</p>
+</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ol>
+<li><code>Why?&amp;#039;&amp;#039; and</code>What is the difference?&#039;&#039; I continued subsequently by reading biographies, autob]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Quotes]]></title>
+    <link href="/2015/04/07/Quotes/"/>
+    <id>/2015/04/07/Quotes/</id>
+    <published>2015-04-07T06:19:03.000Z</published>
+    <updated>2015-11-13T11:22:37.932Z</updated>
+    <content type="html"><![CDATA[<ol>
+<li>There are wavelengths that people cannot see, there are sounds that people cannot hear, and maybe computers have thoughts that people cannot think.<br>2.</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ol>
+<li>There are wavelengths that people cannot see, there are sounds that people cannot hear, and maybe computers have thoughts that peop]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Financial Management for Youth]]></title>
+    <link href="/2015/04/01/Financial-Management-for-Youth/"/>
+    <id>/2015/04/01/Financial-Management-for-Youth/</id>
+    <published>2015-04-01T17:34:27.000Z</published>
+    <updated>2015-11-13T11:22:37.932Z</updated>
+    <content type="html"><![CDATA[<p>This is what I learnt during a lecture series in my College.<br>Before making an investment, check for the following properties in the thing you are investing:<br><strong>Liquidity</strong>: How easy it is to <em><u>access</u></em> your money.<br><strong>Risk: </strong>How <em><u>safe</u></em> your money is.<br><strong>Return</strong>: What <em><u>profit</u></em> investment will result in.</p>
+<p>Liquidity, Risk and Return are interrelated:</p>
+<ul>
+<li>Liquidity <span class="render_latex">[math]\propto[/math]</span> 1/Return</li>
+<li>Risk <span class="render_latex">[math]\propto[/math]</span> Return</li>
+</ul>
+<hr>
+<p>Places to invest</p>
+<ol>
+<li>Cash: This constitutes of Savings Account, Current Account, etc. (Least Risk, Least Reward)</li>
+<li>Bond(Like Loan; I owe you): Indian Government Bond, Corporate Bonds. (Moderate Risk, Moderate Reward)</li>
+<li><p>Stock: NASDAQ, NSE. (Most Risk, Most Reward)</p>
+<ul>
+<li><ul>
+<li>*Stock:</li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+<ul>
+<li>Valuation:</li>
+<li><ul>
+<li>Cash Dividend</li>
+<li>Share AppreciationMost tech companies do not offer cash dividend. One of its reason could be because income tax is to be paid on dividend.]<br>When Cash dividend is given to stockholders, it is announced earlier. and it is not that people buy stock at that time because the price decreases.</li>
+</ul>
+</li>
+<li><p>Types of Stocks</p>
+</li>
+<li><ul>
+<li>Foreign Market: US, Europe, Australia</li>
+<li>Emerging Market: BRIC (Brazil, Russia, India, China)</li>
+<li><p>Commodities: Oil, Natural Resource</p>
+<pre><code><span class="keyword">*</span> <span class="keyword">*</span> <span class="keyword">*</span>Investment Ideas for a Youth
+</code></pre></li>
+</ul>
+</li>
+</ul>
+<ol>
+<li>Set up an emergency fund to cover at least 6 months of your living expense.</li>
+<li>Save at least 10% of your net pay(after deductions of tax, etc), beginning with your first paycheck.</li>
+<li>Now, suppose you are left with x amount money, out of x, keep at least 20% of it in cash form, rest you can use for Stock market and Bonds.</li>
+<li>Now out of, 0.8x, invest in stock market and bond by your age rule. If your age is y; invest (100-y)% of 0.8x in Stock Market and Rest in Bond.</li>
+<li>Stock Market Tips:</li>
+<li><ul>
+<li>Buy Low, Sell High</li>
+<li>Invest only fixed amount, at regular interval.</li>
+<li>Don&#039;t pay attention daily.</li>
+</ul>
+</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>This is what I learnt during a lecture series in my College.<br>Before making an investment, check for the following properties in the th]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Tips while Writing on Quora]]></title>
+    <link href="/2015/04/01/Tips-while-Writing-on-Quora/"/>
+    <id>/2015/04/01/Tips-while-Writing-on-Quora/</id>
+    <published>2015-04-01T17:26:38.000Z</published>
+    <updated>2015-11-13T11:22:37.932Z</updated>
+    <content type="html"><![CDATA[<p>1. To add code. write between code blocks. <div class="codeblock inline_codeblock"><pre><span class="">Write code here</span></pre></div><br>2. To add maths in latex. Use math blocks <span class="render_latex">[math]0<em>a=0</em>b, \forall a,b\in\mathbb C[/math]</span></p>
+<p>Click on suggest edit, to understand more clearly.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>1. To add code. write between code blocks. <div class="codeblock inline_codeblock"><pre><span class="">Write code here</span></pre></div>]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Spellcheck & Grammar in Latex]]></title>
+    <link href="/2015/03/31/Spellcheck-Grammar-in-Latex/"/>
+    <id>/2015/03/31/Spellcheck-Grammar-in-Latex/</id>
+    <published>2015-03-31T07:20:36.000Z</published>
+    <updated>2015-11-13T11:22:37.932Z</updated>
+    <content type="html"><![CDATA[<ol>
+<li><span class="qlink_container"><a href="http://tex.stackexchange.com/questions/204505/spelling-check-for-texmaker" target="_blank" rel="external">Spelling check for Texmaker</a></span></li>
+<li><span class="qlink_container"><a href="https://www.quora.com/How-do-I-check-for-grammar-and-non-spelling-typos-in-a-LaTeX-editor" target="_blank" rel="external">How do I check for grammar and non-spelling typos in a LaTeX editor?</a></span></li>
+<li>Use grammarly in chrome</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ol>
+<li><span class="qlink_container"><a href="http://tex.stackexchange.com/questions/204505/spelling-check-for-texmaker" target="_blank" r]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Forwarding port in Linux]]></title>
+    <link href="/2015/03/26/Forwarding-port-in-Linux/"/>
+    <id>/2015/03/26/Forwarding-port-in-Linux/</id>
+    <published>2015-03-26T12:28:08.000Z</published>
+    <updated>2015-11-13T11:22:37.932Z</updated>
+    <content type="html"><![CDATA[<p>This forwards request from 8080 to 3000</p>
+<div class="codeblock inline_codeblock"><pre><span class="">sudo iptables -t nat -A PREROUTING -p tcp –dport 8080 -j REDIRECT –to-port 3000</span></pre></div>
+
+<p>This saves the iptables settings so that configurations don&#039;t reset after reboot.</p>
+<div class="codeblock inline_codeblock"><pre><span class="">sudo service iptables save</span></pre></div>]]></content>
+    <summary type="html">
+    <![CDATA[<p>This forwards request from 8080 to 3000</p>
+<div class="codeblock inline_codeblock"><pre><span class="">sudo iptables -t nat -A PREROUTIN]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Make Ubuntu Keyboard work like Windows]]></title>
+    <link href="/2015/03/25/Make-Ubuntu-Keyboard-work-like-Windows/"/>
+    <id>/2015/03/25/Make-Ubuntu-Keyboard-work-like-Windows/</id>
+    <published>2015-03-25T09:47:50.000Z</published>
+    <updated>2015-11-13T11:22:37.933Z</updated>
+    <content type="html"><![CDATA[<ul>
+<li><strong>Make Shift+NumLock work as Windows</strong></li>
+</ul>
+<ol>
+<li>From Menu Go to keyboard</li>
+<li>Keyboard Layouts &gt; Options</li>
+<li>Miscellaneous Compatibility Options</li>
+<li>Shift with numeric keypad keys works as in MS Windows</li>
+</ol>
+<ul>
+<li><strong>Permanently disable Num_Lock</strong></li>
+</ul>
+<ol>
+<li><div class="codeblock inline_codeblock"><pre><span class="">sudo vim /etc/rc.local</span></pre></div></li>
+<li><div class="codeblock inline_codeblock"><pre><span class="">xmodmap -e </span></pre></div><div class="codeblock inline_codeblock"><pre><span class="s2">&quot;keycode 77 = &quot;&quot;&quot;</span></pre></div>
+</li>
+</ol>
+<ul>
+<li><strong>To know status of Num Lock</strong><div class="codeblock inline_codeblock"><pre><span class="">xset q</span></pre></div></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ul>
+<li><strong>Make Shift+NumLock work as Windows</strong></li>
+</ul>
+<ol>
+<li>From Menu Go to keyboard</li>
+<li>Keyboard Layouts &gt; Opt]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[On ways to use a Screw]]></title>
+    <link href="/2015/03/22/On-ways-to-use-a-Screw/"/>
+    <id>/2015/03/22/On-ways-to-use-a-Screw/</id>
+    <published>2015-03-22T16:40:33.000Z</published>
+    <updated>2015-11-13T11:22:37.932Z</updated>
+    <content type="html"><![CDATA[<ol>
+<li>Like a spinning top.</li>
+<li>Create designs (By inserting in clay, or by using grooves to paint)</li>
+<li>Stop a puncture or create a puncture.</li>
+<li>Worn like an ornament(Bent to form a ring, Worn like ear ring, Chain of screws).</li>
+<li>Complete circuit. (In place of wire, or to tie two separate wires)</li>
+<li>Create Domino Effect.</li>
+<li>Hit someone (Like a bullet, or if in bulk throwing on head, or with a bomb to maximize damage).</li>
+<li>Use as acupressure device.</li>
+<li>Create music. (with screw of different top sizes)</li>
+<li>Built axle of car. (Fuse 2 screws, weave this in 2 big sized nuts, Fuse nut with the chasis ).</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ol>
+<li>Like a spinning top.</li>
+<li>Create designs (By inserting in clay, or by using grooves to paint)</li>
+<li>Stop a puncture or creat]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[5 Counter-Intuitive Ideas]]></title>
+    <link href="/2015/03/22/5-Counter-Intuitive-Ideas/"/>
+    <id>/2015/03/22/5-Counter-Intuitive-Ideas/</id>
+    <published>2015-03-22T12:57:24.000Z</published>
+    <updated>2015-11-13T11:22:37.935Z</updated>
+    <content type="html"><![CDATA[<p>1. It&#039;s okay to not have passion.<br>2. Buy share when its price is low and sell when its high.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>1. It&#039;s okay to not have passion.<br>2. Buy share when its price is low and sell when its high.</p>
+]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
