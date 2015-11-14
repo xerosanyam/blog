@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[Idea Machine]]></title>
+  <title><![CDATA[The Idea Machine]]></title>
   <subtitle><![CDATA[Sharing is Caring :)]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://xerosanyam.github.io/"/>
-  <updated>2015-11-14T10:06:50.698Z</updated>
+  <updated>2015-11-14T10:07:06.229Z</updated>
   <id>http://xerosanyam.github.io/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://xerosanyam.github.io/2015/11/14/Data-Structures/"/>
     <id>http://xerosanyam.github.io/2015/11/14/Data-Structures/</id>
     <published>2015-11-14T10:00:37.000Z</published>
-    <updated>2015-11-14T10:06:50.698Z</updated>
+    <updated>2015-11-14T10:07:06.229Z</updated>
     <content type="html"><![CDATA[<p>This post will contain quick information or pointers to Data Structures I came across either while web surfing or in Massive Data Course.<br><a id="more"></a></p>
 <h1 id="Probabilistic_Data_Structures">Probabilistic Data Structures</h1><h2 id="Bloom_Filter">Bloom Filter</h2><p>Karumanchi<br><a href="http://lkozma.net/blog/sketching-data-structures/" target="_blank" rel="external">Blog</a></p>
 <h2 id="Count-Min">Count-Min</h2><p><a href="http://lkozma.net/blog/sketching-data-structures/" target="_blank" rel="external">Blog</a></p>
