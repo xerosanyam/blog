@@ -2,222 +2,227 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/2015/11/13/hello-world/</loc>
+    <loc>http://xerosanyam.github.io/2015/11/14/Data-Structures/</loc>
+    <lastmod>2015-11-14T10:06:50.698Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://xerosanyam.github.io/2015/11/13/hello-world/</loc>
     <lastmod>2015-11-13T13:25:26.226Z</lastmod>
   </url>
   
   <url>
-    <loc>/all-archives/index.html</loc>
+    <loc>http://xerosanyam.github.io/all-archives/index.html</loc>
     <lastmod>2015-11-13T12:50:35.810Z</lastmod>
   </url>
   
   <url>
-    <loc>/all-tags/index.html</loc>
+    <loc>http://xerosanyam.github.io/all-tags/index.html</loc>
     <lastmod>2015-11-13T12:50:32.565Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/11/13/First-post-in-Hexo/</loc>
+    <loc>http://xerosanyam.github.io/2015/11/13/First-post-in-Hexo/</loc>
     <lastmod>2015-11-13T12:48:31.203Z</lastmod>
   </url>
   
   <url>
-    <loc>/all-categories/index.html</loc>
+    <loc>http://xerosanyam.github.io/all-categories/index.html</loc>
     <lastmod>2015-11-13T12:20:06.490Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/03/22/5-Counter-Intuitive-Ideas/</loc>
+    <loc>http://xerosanyam.github.io/2015/10/11/Amazon-Kindle-Tips-Tricks/</loc>
     <lastmod>2015-11-13T11:22:37.935Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/10/11/Amazon-Kindle-Tips-Tricks/</loc>
+    <loc>http://xerosanyam.github.io/2015/03/22/5-Counter-Intuitive-Ideas/</loc>
     <lastmod>2015-11-13T11:22:37.935Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/11/09/Organizing-Photos-Tips-Pitfalls/</loc>
+    <loc>http://xerosanyam.github.io/2015/11/09/Organizing-Photos-Tips-Pitfalls/</loc>
     <lastmod>2015-11-13T11:22:37.935Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/10/07/Things-to-do-after-Windows-Installation/</loc>
+    <loc>http://xerosanyam.github.io/2015/10/07/Things-to-do-after-Windows-Installation/</loc>
     <lastmod>2015-11-13T11:22:37.934Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/03/25/Make-Ubuntu-Keyboard-work-like-Windows/</loc>
+    <loc>http://xerosanyam.github.io/2015/03/25/Make-Ubuntu-Keyboard-work-like-Windows/</loc>
     <lastmod>2015-11-13T11:22:37.933Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/03/31/Spellcheck-Grammar-in-Latex/</loc>
+    <loc>http://xerosanyam.github.io/2015/06/26/How-to-make-a-Twitter-Bot/</loc>
     <lastmod>2015-11-13T11:22:37.932Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/04/07/You-and-Your-Research/</loc>
+    <loc>http://xerosanyam.github.io/2015/04/07/You-and-Your-Research/</loc>
     <lastmod>2015-11-13T11:22:37.932Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/04/07/Quotes/</loc>
+    <loc>http://xerosanyam.github.io/2015/04/21/Excerpt-from-Venkat-Padmanabhan-s-Talk/</loc>
     <lastmod>2015-11-13T11:22:37.932Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/04/01/Tips-while-Writing-on-Quora/</loc>
+    <loc>http://xerosanyam.github.io/2015/04/07/Quotes/</loc>
     <lastmod>2015-11-13T11:22:37.932Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/04/18/Things-learnt-while-developing-Chrome-Extension/</loc>
+    <loc>http://xerosanyam.github.io/2015/04/01/Financial-Management-for-Youth/</loc>
     <lastmod>2015-11-13T11:22:37.932Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/03/26/Forwarding-port-in-Linux/</loc>
+    <loc>http://xerosanyam.github.io/2015/03/26/Forwarding-port-in-Linux/</loc>
     <lastmod>2015-11-13T11:22:37.932Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/04/21/Excerpt-from-Venkat-Padmanabhan-s-Talk/</loc>
+    <loc>http://xerosanyam.github.io/2015/04/18/Things-to-do-after-Linux-Mint-17-Installation/</loc>
     <lastmod>2015-11-13T11:22:37.932Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/04/18/Things-to-do-after-Linux-Mint-17-Installation/</loc>
+    <loc>http://xerosanyam.github.io/2015/03/22/On-ways-to-use-a-Screw/</loc>
     <lastmod>2015-11-13T11:22:37.932Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/06/26/How-to-make-a-Twitter-Bot/</loc>
+    <loc>http://xerosanyam.github.io/2015/04/18/Things-learnt-while-developing-Chrome-Extension/</loc>
     <lastmod>2015-11-13T11:22:37.932Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/04/01/Financial-Management-for-Youth/</loc>
+    <loc>http://xerosanyam.github.io/2015/03/31/Spellcheck-Grammar-in-Latex/</loc>
     <lastmod>2015-11-13T11:22:37.932Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/03/22/On-ways-to-use-a-Screw/</loc>
+    <loc>http://xerosanyam.github.io/2015/04/01/Tips-while-Writing-on-Quora/</loc>
     <lastmod>2015-11-13T11:22:37.932Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/09/27/Learnings/</loc>
+    <loc>http://xerosanyam.github.io/2015/08/22/Understanding-how-a-program-runs-on-a-webserver-better/</loc>
     <lastmod>2015-11-13T11:22:37.931Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/08/22/Understanding-how-a-program-runs-on-a-webserver-better/</loc>
+    <loc>http://xerosanyam.github.io/2015/09/27/Learnings/</loc>
     <lastmod>2015-11-13T11:22:37.931Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/07/12/Convert-Bullets-to-Numbers-in-GeeksforGeeks/</loc>
+    <loc>http://xerosanyam.github.io/2015/11/04/Java-on-Linux/</loc>
     <lastmod>2015-11-13T11:22:37.931Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/11/04/Java-on-Linux/</loc>
+    <loc>http://xerosanyam.github.io/2015/10/07/Interesting-Stuff-on-the-Internet/</loc>
     <lastmod>2015-11-13T11:22:37.931Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/10/07/Interesting-Stuff-on-the-Internet/</loc>
+    <loc>http://xerosanyam.github.io/2015/08/14/Connect-bluetooth-headset-to-Linux-Mint/</loc>
     <lastmod>2015-11-13T11:22:37.931Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/09/11/SSD-HDD-Benchmarks/</loc>
+    <loc>http://xerosanyam.github.io/2015/06/28/Making-Geany-more-powerful-Settings-for-Geany/</loc>
     <lastmod>2015-11-13T11:22:37.931Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/10/08/Learning-Autohotkey/</loc>
+    <loc>http://xerosanyam.github.io/2015/08/14/Hackerrank-Tricks/</loc>
     <lastmod>2015-11-13T11:22:37.931Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/08/14/Hackerrank-Tricks/</loc>
+    <loc>http://xerosanyam.github.io/2015/08/22/Git-Gitg/</loc>
     <lastmod>2015-11-13T11:22:37.931Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/08/22/Git-Gitg/</loc>
+    <loc>http://xerosanyam.github.io/2015/09/18/Genymotion-Emulator-for-Android/</loc>
     <lastmod>2015-11-13T11:22:37.931Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/09/18/Genymotion-Emulator-for-Android/</loc>
+    <loc>http://xerosanyam.github.io/2015/07/12/Convert-Bullets-to-Numbers-in-GeeksforGeeks/</loc>
     <lastmod>2015-11-13T11:22:37.931Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/06/28/Making-Geany-more-powerful-Settings-for-Geany/</loc>
+    <loc>http://xerosanyam.github.io/2015/08/03/Update-gcc-for-Hackerrank-etc/</loc>
     <lastmod>2015-11-13T11:22:37.931Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/08/14/Connect-bluetooth-headset-to-Linux-Mint/</loc>
+    <loc>http://xerosanyam.github.io/2015/09/11/SSD-HDD-Benchmarks/</loc>
     <lastmod>2015-11-13T11:22:37.931Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/08/03/Update-gcc-for-Hackerrank-etc/</loc>
+    <loc>http://xerosanyam.github.io/2015/10/08/Learning-Autohotkey/</loc>
     <lastmod>2015-11-13T11:22:37.931Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/10/27/Evernote-in-Linux/</loc>
+    <loc>http://xerosanyam.github.io/2015/10/27/Evernote-in-Linux/</loc>
     <lastmod>2015-11-13T11:22:37.930Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/11/09/Porting-Android-Studio-to-Different-Computer/</loc>
+    <loc>http://xerosanyam.github.io/2015/11/09/Porting-Android-Studio-to-Different-Computer/</loc>
     <lastmod>2015-11-13T11:22:37.930Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/10/07/Coding-projects-that-can-be-given-to-a-College-Student/</loc>
+    <loc>http://xerosanyam.github.io/2015/10/07/Coding-projects-that-can-be-given-to-a-College-Student/</loc>
     <lastmod>2015-11-13T11:22:37.930Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/10/08/Website-based-on-Strapdown-js/</loc>
+    <loc>http://xerosanyam.github.io/2015/10/08/Website-based-on-Strapdown-js/</loc>
     <lastmod>2015-11-13T11:22:37.930Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/10/28/Frontend-Development/</loc>
+    <loc>http://xerosanyam.github.io/2015/11/09/Jekyll/</loc>
     <lastmod>2015-11-13T11:22:37.914Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/11/09/Jekyll/</loc>
+    <loc>http://xerosanyam.github.io/2015/10/30/Pushing-Android-Project-to-Github/</loc>
     <lastmod>2015-11-13T11:22:37.914Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/10/30/Pushing-Android-Project-to-Github/</loc>
+    <loc>http://xerosanyam.github.io/2015/10/08/Using-SQLite/</loc>
     <lastmod>2015-11-13T11:22:37.914Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/10/08/Using-SQLite/</loc>
+    <loc>http://xerosanyam.github.io/2015/10/28/Frontend-Development/</loc>
     <lastmod>2015-11-13T11:22:37.914Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/10/13/Shortcuts-in-Windows/</loc>
+    <loc>http://xerosanyam.github.io/2015/10/13/Shortcuts-in-Windows/</loc>
     <lastmod>2015-11-13T11:22:37.914Z</lastmod>
   </url>
   
   <url>
-    <loc>/2015/10/29/Important-Computer-related-skills-that-can-be-learnt-in-short-time/</loc>
+    <loc>http://xerosanyam.github.io/2015/10/29/Important-Computer-related-skills-that-can-be-learnt-in-short-time/</loc>
     <lastmod>2015-11-13T11:22:37.914Z</lastmod>
   </url>
   

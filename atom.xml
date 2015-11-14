@@ -3,9 +3,9 @@
   <title><![CDATA[Idea Machine]]></title>
   <subtitle><![CDATA[Sharing is Caring :)]]></subtitle>
   <link href="/atom.xml" rel="self"/>
-  <link href="/"/>
-  <updated>2015-11-13T13:25:26.226Z</updated>
-  <id>/</id>
+  <link href="http://xerosanyam.github.io/"/>
+  <updated>2015-11-14T10:06:50.698Z</updated>
+  <id>http://xerosanyam.github.io/</id>
   
   <author>
     <name><![CDATA[Sanyam Jain]]></name>
@@ -15,9 +15,30 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[Data Structures]]></title>
+    <link href="http://xerosanyam.github.io/2015/11/14/Data-Structures/"/>
+    <id>http://xerosanyam.github.io/2015/11/14/Data-Structures/</id>
+    <published>2015-11-14T10:00:37.000Z</published>
+    <updated>2015-11-14T10:06:50.698Z</updated>
+    <content type="html"><![CDATA[<p>This post will contain quick information or pointers to Data Structures I came across either while web surfing or in Massive Data Course.<br><a id="more"></a></p>
+<h1 id="Probabilistic_Data_Structures">Probabilistic Data Structures</h1><h2 id="Bloom_Filter">Bloom Filter</h2><p>Karumanchi<br><a href="http://lkozma.net/blog/sketching-data-structures/" target="_blank" rel="external">Blog</a></p>
+<h2 id="Count-Min">Count-Min</h2><p><a href="http://lkozma.net/blog/sketching-data-structures/" target="_blank" rel="external">Blog</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>This post will contain quick information or pointers to Data Structures I came across either while web surfing or in Massive Data Course.<br>]]>
+    
+    </summary>
+    
+      <category term="Data Structure" scheme="http://xerosanyam.github.io/categories/Data-Structure/"/>
+    
+      <category term="Math" scheme="http://xerosanyam.github.io/categories/Data-Structure/Math/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[Hello World]]></title>
-    <link href="/2015/11/13/hello-world/"/>
-    <id>/2015/11/13/hello-world/</id>
+    <link href="http://xerosanyam.github.io/2015/11/13/hello-world/"/>
+    <id>http://xerosanyam.github.io/2015/11/13/hello-world/</id>
     <published>2015-11-13T13:25:26.226Z</published>
     <updated>2015-11-13T13:25:26.226Z</updated>
     <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.<br><a id="more"></a></p>
@@ -39,8 +60,8 @@
   
   <entry>
     <title><![CDATA[First post in Hexo]]></title>
-    <link href="/2015/11/13/First-post-in-Hexo/"/>
-    <id>/2015/11/13/First-post-in-Hexo/</id>
+    <link href="http://xerosanyam.github.io/2015/11/13/First-post-in-Hexo/"/>
+    <id>http://xerosanyam.github.io/2015/11/13/First-post-in-Hexo/</id>
     <published>2015-11-13T11:17:21.000Z</published>
     <updated>2015-11-13T12:48:31.203Z</updated>
     <content type="html"></content>
@@ -48,16 +69,16 @@
     
     </summary>
     
-      <category term="Hexo" scheme="/tags/Hexo/"/>
+      <category term="Hexo" scheme="http://xerosanyam.github.io/tags/Hexo/"/>
     
-      <category term="Technical" scheme="/categories/Technical/"/>
+      <category term="Technical" scheme="http://xerosanyam.github.io/categories/Technical/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Organizing Photos; Tips & Pitfalls]]></title>
-    <link href="/2015/11/09/Organizing-Photos-Tips-Pitfalls/"/>
-    <id>/2015/11/09/Organizing-Photos-Tips-Pitfalls/</id>
+    <link href="http://xerosanyam.github.io/2015/11/09/Organizing-Photos-Tips-Pitfalls/"/>
+    <id>http://xerosanyam.github.io/2015/11/09/Organizing-Photos-Tips-Pitfalls/</id>
     <published>2015-11-09T12:56:22.000Z</published>
     <updated>2015-11-13T11:22:37.935Z</updated>
     <content type="html"><![CDATA[<p>Photos App: Doesn&#039;t allow you to selectively update photos to server.<br>Workflow 1:<br>Select photos, make a new folder, sync only this folder<br>Workflow 2:<br>Move photos to PC, selectively upload using Photos uploader.</p>
@@ -70,8 +91,8 @@
   
   <entry>
     <title><![CDATA[Porting Android Studio to Different Computer]]></title>
-    <link href="/2015/11/09/Porting-Android-Studio-to-Different-Computer/"/>
-    <id>/2015/11/09/Porting-Android-Studio-to-Different-Computer/</id>
+    <link href="http://xerosanyam.github.io/2015/11/09/Porting-Android-Studio-to-Different-Computer/"/>
+    <id>http://xerosanyam.github.io/2015/11/09/Porting-Android-Studio-to-Different-Computer/</id>
     <published>2015-11-09T12:56:09.000Z</published>
     <updated>2015-11-13T11:22:37.930Z</updated>
     <content type="html"><![CDATA[<ol>
@@ -90,8 +111,8 @@
   
   <entry>
     <title><![CDATA[Jekyll]]></title>
-    <link href="/2015/11/09/Jekyll/"/>
-    <id>/2015/11/09/Jekyll/</id>
+    <link href="http://xerosanyam.github.io/2015/11/09/Jekyll/"/>
+    <id>http://xerosanyam.github.io/2015/11/09/Jekyll/</id>
     <published>2015-11-09T12:55:53.000Z</published>
     <updated>2015-11-13T11:22:37.914Z</updated>
     <content type="html"><![CDATA[<p>Jekyll needs Ruby version &gt;2; check your version by ruby -v<br>Remove all ruby packages, if ruby-v doesn&#039;t give version &gt;2<br>To install package that is not in software manager/center; eg search ruby ppa on google<br>add popular ppa to your software sources<br>install required ruby package [1]<br>install jekyll sudo gem install jekyll [2]</p>
@@ -105,8 +126,8 @@
   
   <entry>
     <title><![CDATA[Java on Linux]]></title>
-    <link href="/2015/11/04/Java-on-Linux/"/>
-    <id>/2015/11/04/Java-on-Linux/</id>
+    <link href="http://xerosanyam.github.io/2015/11/04/Java-on-Linux/"/>
+    <id>http://xerosanyam.github.io/2015/11/04/Java-on-Linux/</id>
     <published>2015-11-04T12:44:27.000Z</published>
     <updated>2015-11-13T11:22:37.931Z</updated>
     <content type="html"><![CDATA[<ol>
@@ -125,8 +146,8 @@
   
   <entry>
     <title><![CDATA[Pushing Android Project to Github]]></title>
-    <link href="/2015/10/30/Pushing-Android-Project-to-Github/"/>
-    <id>/2015/10/30/Pushing-Android-Project-to-Github/</id>
+    <link href="http://xerosanyam.github.io/2015/10/30/Pushing-Android-Project-to-Github/"/>
+    <id>http://xerosanyam.github.io/2015/10/30/Pushing-Android-Project-to-Github/</id>
     <published>2015-10-30T13:04:20.000Z</published>
     <updated>2015-11-13T11:22:37.914Z</updated>
     <content type="html"><![CDATA[<ol>
@@ -152,8 +173,8 @@
   
   <entry>
     <title><![CDATA[Important Computer related skills that can be learnt in short time]]></title>
-    <link href="/2015/10/29/Important-Computer-related-skills-that-can-be-learnt-in-short-time/"/>
-    <id>/2015/10/29/Important-Computer-related-skills-that-can-be-learnt-in-short-time/</id>
+    <link href="http://xerosanyam.github.io/2015/10/29/Important-Computer-related-skills-that-can-be-learnt-in-short-time/"/>
+    <id>http://xerosanyam.github.io/2015/10/29/Important-Computer-related-skills-that-can-be-learnt-in-short-time/</id>
     <published>2015-10-29T08:40:52.000Z</published>
     <updated>2015-11-13T11:22:37.914Z</updated>
     <content type="html"><![CDATA[<p>The list will be from Most important to Little Less Important:</p>
@@ -187,8 +208,8 @@
   
   <entry>
     <title><![CDATA[Frontend Development]]></title>
-    <link href="/2015/10/28/Frontend-Development/"/>
-    <id>/2015/10/28/Frontend-Development/</id>
+    <link href="http://xerosanyam.github.io/2015/10/28/Frontend-Development/"/>
+    <id>http://xerosanyam.github.io/2015/10/28/Frontend-Development/</id>
     <published>2015-10-28T10:29:04.000Z</published>
     <updated>2015-11-13T11:22:37.914Z</updated>
     <content type="html"><![CDATA[<p>Designing a Home Page</p>
@@ -218,8 +239,8 @@
   
   <entry>
     <title><![CDATA[Evernote in Linux]]></title>
-    <link href="/2015/10/27/Evernote-in-Linux/"/>
-    <id>/2015/10/27/Evernote-in-Linux/</id>
+    <link href="http://xerosanyam.github.io/2015/10/27/Evernote-in-Linux/"/>
+    <id>http://xerosanyam.github.io/2015/10/27/Evernote-in-Linux/</id>
     <published>2015-10-27T13:26:15.000Z</published>
     <updated>2015-11-13T11:22:37.930Z</updated>
     <content type="html"><![CDATA[<p>Everpad: Note creation not allowed<br>NixNote: Has problems in synchronization<br>Evernote on Wine: Doesn&#039;t allow editing of a note.</p>
@@ -234,8 +255,8 @@
   
   <entry>
     <title><![CDATA[Shortcuts in Windows]]></title>
-    <link href="/2015/10/13/Shortcuts-in-Windows/"/>
-    <id>/2015/10/13/Shortcuts-in-Windows/</id>
+    <link href="http://xerosanyam.github.io/2015/10/13/Shortcuts-in-Windows/"/>
+    <id>http://xerosanyam.github.io/2015/10/13/Shortcuts-in-Windows/</id>
     <published>2015-10-13T09:24:33.000Z</published>
     <updated>2015-11-13T11:22:37.914Z</updated>
     <content type="html"><![CDATA[<p>I find out few shortcut keys that one can use in daily life to increase productivity &amp; made a wallpaper based on them with the help of GIMP.<br>While making the list of shortcuts I kept these points in mind:</p>
@@ -252,8 +273,8 @@
   
   <entry>
     <title><![CDATA[Amazon Kindle: Tips & Tricks]]></title>
-    <link href="/2015/10/11/Amazon-Kindle-Tips-Tricks/"/>
-    <id>/2015/10/11/Amazon-Kindle-Tips-Tricks/</id>
+    <link href="http://xerosanyam.github.io/2015/10/11/Amazon-Kindle-Tips-Tricks/"/>
+    <id>http://xerosanyam.github.io/2015/10/11/Amazon-Kindle-Tips-Tricks/</id>
     <published>2015-10-11T13:30:28.000Z</published>
     <updated>2015-11-13T11:22:37.935Z</updated>
     <content type="html"><![CDATA[<ol>
@@ -298,8 +319,8 @@
   
   <entry>
     <title><![CDATA[Using SQLite]]></title>
-    <link href="/2015/10/08/Using-SQLite/"/>
-    <id>/2015/10/08/Using-SQLite/</id>
+    <link href="http://xerosanyam.github.io/2015/10/08/Using-SQLite/"/>
+    <id>http://xerosanyam.github.io/2015/10/08/Using-SQLite/</id>
     <published>2015-10-08T12:02:58.000Z</published>
     <updated>2015-11-13T11:22:37.914Z</updated>
     <content type="html"><![CDATA[<ul>
@@ -317,8 +338,8 @@
   
   <entry>
     <title><![CDATA[Website based on Strapdown.js]]></title>
-    <link href="/2015/10/08/Website-based-on-Strapdown-js/"/>
-    <id>/2015/10/08/Website-based-on-Strapdown-js/</id>
+    <link href="http://xerosanyam.github.io/2015/10/08/Website-based-on-Strapdown-js/"/>
+    <id>http://xerosanyam.github.io/2015/10/08/Website-based-on-Strapdown-js/</id>
     <published>2015-10-08T10:28:24.000Z</published>
     <updated>2015-11-13T11:22:37.930Z</updated>
     <content type="html"><![CDATA[<ul>
@@ -344,8 +365,8 @@
   
   <entry>
     <title><![CDATA[Learning Autohotkey]]></title>
-    <link href="/2015/10/08/Learning-Autohotkey/"/>
-    <id>/2015/10/08/Learning-Autohotkey/</id>
+    <link href="http://xerosanyam.github.io/2015/10/08/Learning-Autohotkey/"/>
+    <id>http://xerosanyam.github.io/2015/10/08/Learning-Autohotkey/</id>
     <published>2015-10-08T05:53:33.000Z</published>
     <updated>2015-11-13T11:22:37.931Z</updated>
     <content type="html"><![CDATA[<p>AutoHotkey in windows helps in automation by a script.<br>It can:</p>
@@ -369,8 +390,8 @@
   
   <entry>
     <title><![CDATA[Coding projects that can be given to a College Student]]></title>
-    <link href="/2015/10/07/Coding-projects-that-can-be-given-to-a-College-Student/"/>
-    <id>/2015/10/07/Coding-projects-that-can-be-given-to-a-College-Student/</id>
+    <link href="http://xerosanyam.github.io/2015/10/07/Coding-projects-that-can-be-given-to-a-College-Student/"/>
+    <id>http://xerosanyam.github.io/2015/10/07/Coding-projects-that-can-be-given-to-a-College-Student/</id>
     <published>2015-10-07T05:14:14.000Z</published>
     <updated>2015-11-13T11:22:37.930Z</updated>
     <content type="html"><![CDATA[<ol>
@@ -388,8 +409,8 @@
   
   <entry>
     <title><![CDATA[Things to do after Windows Installation]]></title>
-    <link href="/2015/10/07/Things-to-do-after-Windows-Installation/"/>
-    <id>/2015/10/07/Things-to-do-after-Windows-Installation/</id>
+    <link href="http://xerosanyam.github.io/2015/10/07/Things-to-do-after-Windows-Installation/"/>
+    <id>http://xerosanyam.github.io/2015/10/07/Things-to-do-after-Windows-Installation/</id>
     <published>2015-10-07T05:11:56.000Z</published>
     <updated>2015-11-13T11:22:37.934Z</updated>
     <content type="html"><![CDATA[<ol>
@@ -411,8 +432,8 @@
   
   <entry>
     <title><![CDATA[Interesting Stuff on the Internet]]></title>
-    <link href="/2015/10/07/Interesting-Stuff-on-the-Internet/"/>
-    <id>/2015/10/07/Interesting-Stuff-on-the-Internet/</id>
+    <link href="http://xerosanyam.github.io/2015/10/07/Interesting-Stuff-on-the-Internet/"/>
+    <id>http://xerosanyam.github.io/2015/10/07/Interesting-Stuff-on-the-Internet/</id>
     <published>2015-10-07T05:05:17.000Z</published>
     <updated>2015-11-13T11:22:37.931Z</updated>
     <content type="html"><![CDATA[<ol>
@@ -432,8 +453,8 @@
   
   <entry>
     <title><![CDATA[Learnings]]></title>
-    <link href="/2015/09/27/Learnings/"/>
-    <id>/2015/09/27/Learnings/</id>
+    <link href="http://xerosanyam.github.io/2015/09/27/Learnings/"/>
+    <id>http://xerosanyam.github.io/2015/09/27/Learnings/</id>
     <published>2015-09-27T05:23:01.000Z</published>
     <updated>2015-11-13T11:22:37.931Z</updated>
     <content type="html"><![CDATA[<ul>
@@ -468,8 +489,8 @@
   
   <entry>
     <title><![CDATA[Genymotion; (Emulator for Android)]]></title>
-    <link href="/2015/09/18/Genymotion-Emulator-for-Android/"/>
-    <id>/2015/09/18/Genymotion-Emulator-for-Android/</id>
+    <link href="http://xerosanyam.github.io/2015/09/18/Genymotion-Emulator-for-Android/"/>
+    <id>http://xerosanyam.github.io/2015/09/18/Genymotion-Emulator-for-Android/</id>
     <published>2015-09-18T06:19:37.000Z</published>
     <updated>2015-11-13T11:22:37.931Z</updated>
     <content type="html"><![CDATA[<p>After installing genymotion, when I tried to build{download} a virtual drive, it gave me file corrupt error. Following is the solution I found:<br>1. Remove all virtual box installation before installing genymotion.<br>2. Remove all files from appdata\genymotion\ folder<br>3. Download genymotion virtual drive externally. { Will update the link soon}<br>4. Copy this to appdata\genymotion~\ova\&nbsp; folder.<br>5. Install genymotion.<br>6. Add virtual device, choose the same device as you had downloaded in step 3.<br>7. It will automatically detect the device.<br>8. Start the device.<br>9. If may give some error {happens almost everytime}, start device from virtual box.<br>10. It may also give error, close device. Start again. Again error, then switch off the device.<br>11. Now, start device from genymotion.<br>12. I have to follow steps 8-11 everytime I start device from genymotion, since it is fast, and provides multiple features, I feel it is worth it.</p>
@@ -483,8 +504,8 @@
   
   <entry>
     <title><![CDATA[SSD HDD Benchmarks]]></title>
-    <link href="/2015/09/11/SSD-HDD-Benchmarks/"/>
-    <id>/2015/09/11/SSD-HDD-Benchmarks/</id>
+    <link href="http://xerosanyam.github.io/2015/09/11/SSD-HDD-Benchmarks/"/>
+    <id>http://xerosanyam.github.io/2015/09/11/SSD-HDD-Benchmarks/</id>
     <published>2015-09-11T16:12:47.000Z</published>
     <updated>2015-11-13T11:22:37.931Z</updated>
     <content type="html"><![CDATA[<p>Replaced internal HDD with SSD.<br>Made External HDD using Transcend Enclosure.</p>
@@ -500,8 +521,8 @@
   
   <entry>
     <title><![CDATA[Git + Gitg]]></title>
-    <link href="/2015/08/22/Git-Gitg/"/>
-    <id>/2015/08/22/Git-Gitg/</id>
+    <link href="http://xerosanyam.github.io/2015/08/22/Git-Gitg/"/>
+    <id>http://xerosanyam.github.io/2015/08/22/Git-Gitg/</id>
     <published>2015-08-22T07:21:59.000Z</published>
     <updated>2015-11-13T11:22:37.931Z</updated>
     <content type="html"><![CDATA[<p>Gitg is an easy to use, cool repository visualiser.<br>Also, you do not need to go to cmd line to write commands again &amp; again.</p>
@@ -516,8 +537,8 @@
   
   <entry>
     <title><![CDATA[Understanding how a program runs on a webserver better]]></title>
-    <link href="/2015/08/22/Understanding-how-a-program-runs-on-a-webserver-better/"/>
-    <id>/2015/08/22/Understanding-how-a-program-runs-on-a-webserver-better/</id>
+    <link href="http://xerosanyam.github.io/2015/08/22/Understanding-how-a-program-runs-on-a-webserver-better/"/>
+    <id>http://xerosanyam.github.io/2015/08/22/Understanding-how-a-program-runs-on-a-webserver-better/</id>
     <published>2015-08-22T07:20:13.000Z</published>
     <updated>2015-11-13T11:22:37.931Z</updated>
     <content type="html"><![CDATA[<p>1. Set up XAMPP (or a webserver) on your machine.<br><span class="qlink_container"><a href="http://askubuntu.com/questions/529500/how-to-start-xampp-gui" target="_blank" rel="external">How to start xampp GUI</a></span></p>
@@ -533,8 +554,8 @@
   
   <entry>
     <title><![CDATA[Hackerrank Tricks]]></title>
-    <link href="/2015/08/14/Hackerrank-Tricks/"/>
-    <id>/2015/08/14/Hackerrank-Tricks/</id>
+    <link href="http://xerosanyam.github.io/2015/08/14/Hackerrank-Tricks/"/>
+    <id>http://xerosanyam.github.io/2015/08/14/Hackerrank-Tricks/</id>
     <published>2015-08-14T15:06:10.000Z</published>
     <updated>2015-11-13T11:22:37.931Z</updated>
     <content type="html"><![CDATA[<ol>
@@ -554,8 +575,8 @@
   
   <entry>
     <title><![CDATA[Connect bluetooth headset to Linux Mint]]></title>
-    <link href="/2015/08/14/Connect-bluetooth-headset-to-Linux-Mint/"/>
-    <id>/2015/08/14/Connect-bluetooth-headset-to-Linux-Mint/</id>
+    <link href="http://xerosanyam.github.io/2015/08/14/Connect-bluetooth-headset-to-Linux-Mint/"/>
+    <id>http://xerosanyam.github.io/2015/08/14/Connect-bluetooth-headset-to-Linux-Mint/</id>
     <published>2015-08-14T05:29:40.000Z</published>
     <updated>2015-11-13T11:22:37.931Z</updated>
     <content type="html"><![CDATA[<ol>
@@ -577,8 +598,8 @@
   
   <entry>
     <title><![CDATA[Update gcc (for Hackerrank, etc)]]></title>
-    <link href="/2015/08/03/Update-gcc-for-Hackerrank-etc/"/>
-    <id>/2015/08/03/Update-gcc-for-Hackerrank-etc/</id>
+    <link href="http://xerosanyam.github.io/2015/08/03/Update-gcc-for-Hackerrank-etc/"/>
+    <id>http://xerosanyam.github.io/2015/08/03/Update-gcc-for-Hackerrank-etc/</id>
     <published>2015-08-03T09:28:00.000Z</published>
     <updated>2015-11-13T11:22:37.931Z</updated>
     <content type="html"><![CDATA[<ol>
@@ -598,8 +619,8 @@
   
   <entry>
     <title><![CDATA[Convert Bullets to Numbers in GeeksforGeeks]]></title>
-    <link href="/2015/07/12/Convert-Bullets-to-Numbers-in-GeeksforGeeks/"/>
-    <id>/2015/07/12/Convert-Bullets-to-Numbers-in-GeeksforGeeks/</id>
+    <link href="http://xerosanyam.github.io/2015/07/12/Convert-Bullets-to-Numbers-in-GeeksforGeeks/"/>
+    <id>http://xerosanyam.github.io/2015/07/12/Convert-Bullets-to-Numbers-in-GeeksforGeeks/</id>
     <published>2015-07-12T07:24:37.000Z</published>
     <updated>2015-11-13T11:22:37.931Z</updated>
     <content type="html"><![CDATA[<ol>
@@ -619,8 +640,8 @@
   
   <entry>
     <title><![CDATA[Making Geany more powerful; Settings for Geany]]></title>
-    <link href="/2015/06/28/Making-Geany-more-powerful-Settings-for-Geany/"/>
-    <id>/2015/06/28/Making-Geany-more-powerful-Settings-for-Geany/</id>
+    <link href="http://xerosanyam.github.io/2015/06/28/Making-Geany-more-powerful-Settings-for-Geany/"/>
+    <id>http://xerosanyam.github.io/2015/06/28/Making-Geany-more-powerful-Settings-for-Geany/</id>
     <published>2015-06-28T11:41:55.000Z</published>
     <updated>2015-11-13T11:22:37.931Z</updated>
     <content type="html"><![CDATA[<p>Geany is a lightweight, fully customizable IDE that I use on linux. It makes coding a breeze. :)</p>
@@ -648,8 +669,8 @@
   
   <entry>
     <title><![CDATA[How to make a Twitter Bot]]></title>
-    <link href="/2015/06/26/How-to-make-a-Twitter-Bot/"/>
-    <id>/2015/06/26/How-to-make-a-Twitter-Bot/</id>
+    <link href="http://xerosanyam.github.io/2015/06/26/How-to-make-a-Twitter-Bot/"/>
+    <id>http://xerosanyam.github.io/2015/06/26/How-to-make-a-Twitter-Bot/</id>
     <published>2015-06-26T11:38:43.000Z</published>
     <updated>2015-11-13T11:22:37.932Z</updated>
     <content type="html"><![CDATA[<p>Depends on the type of bot you want to make.<br>If you want to make an &quot;okay Google&quot; kind of bot which replies back when you ask it some question, then labnol has a really nice article.</p>
@@ -669,8 +690,8 @@
   
   <entry>
     <title><![CDATA[Excerpt from Venkat Padmanabhan's Talk]]></title>
-    <link href="/2015/04/21/Excerpt-from-Venkat-Padmanabhan-s-Talk/"/>
-    <id>/2015/04/21/Excerpt-from-Venkat-Padmanabhan-s-Talk/</id>
+    <link href="http://xerosanyam.github.io/2015/04/21/Excerpt-from-Venkat-Padmanabhan-s-Talk/"/>
+    <id>http://xerosanyam.github.io/2015/04/21/Excerpt-from-Venkat-Padmanabhan-s-Talk/</id>
     <published>2015-04-21T15:32:36.000Z</published>
     <updated>2015-11-13T11:22:37.932Z</updated>
     <content type="html"><![CDATA[<blockquote>
@@ -745,8 +766,8 @@
   
   <entry>
     <title><![CDATA[Things learnt while developing Chrome Extension]]></title>
-    <link href="/2015/04/18/Things-learnt-while-developing-Chrome-Extension/"/>
-    <id>/2015/04/18/Things-learnt-while-developing-Chrome-Extension/</id>
+    <link href="http://xerosanyam.github.io/2015/04/18/Things-learnt-while-developing-Chrome-Extension/"/>
+    <id>http://xerosanyam.github.io/2015/04/18/Things-learnt-while-developing-Chrome-Extension/</id>
     <published>2015-04-18T11:07:59.000Z</published>
     <updated>2015-11-13T11:22:37.932Z</updated>
     <content type="html"><![CDATA[<ol>
@@ -762,8 +783,8 @@
   
   <entry>
     <title><![CDATA[Things to do after Linux Mint 17 Installation]]></title>
-    <link href="/2015/04/18/Things-to-do-after-Linux-Mint-17-Installation/"/>
-    <id>/2015/04/18/Things-to-do-after-Linux-Mint-17-Installation/</id>
+    <link href="http://xerosanyam.github.io/2015/04/18/Things-to-do-after-Linux-Mint-17-Installation/"/>
+    <id>http://xerosanyam.github.io/2015/04/18/Things-to-do-after-Linux-Mint-17-Installation/</id>
     <published>2015-04-18T06:04:39.000Z</published>
     <updated>2015-11-13T11:22:37.932Z</updated>
     <content type="html"><![CDATA[<p>In following paragraphs, Storage(NTFS format) refers to a drive that is being shared between Windows and Mint.</p>
@@ -823,8 +844,8 @@
   
   <entry>
     <title><![CDATA[You and Your Research]]></title>
-    <link href="/2015/04/07/You-and-Your-Research/"/>
-    <id>/2015/04/07/You-and-Your-Research/</id>
+    <link href="http://xerosanyam.github.io/2015/04/07/You-and-Your-Research/"/>
+    <id>http://xerosanyam.github.io/2015/04/07/You-and-Your-Research/</id>
     <published>2015-04-07T06:26:03.000Z</published>
     <updated>2015-11-13T11:22:37.932Z</updated>
     <content type="html"><![CDATA[<ol>
@@ -844,8 +865,8 @@
   
   <entry>
     <title><![CDATA[Quotes]]></title>
-    <link href="/2015/04/07/Quotes/"/>
-    <id>/2015/04/07/Quotes/</id>
+    <link href="http://xerosanyam.github.io/2015/04/07/Quotes/"/>
+    <id>http://xerosanyam.github.io/2015/04/07/Quotes/</id>
     <published>2015-04-07T06:19:03.000Z</published>
     <updated>2015-11-13T11:22:37.932Z</updated>
     <content type="html"><![CDATA[<ol>
@@ -861,8 +882,8 @@
   
   <entry>
     <title><![CDATA[Financial Management for Youth]]></title>
-    <link href="/2015/04/01/Financial-Management-for-Youth/"/>
-    <id>/2015/04/01/Financial-Management-for-Youth/</id>
+    <link href="http://xerosanyam.github.io/2015/04/01/Financial-Management-for-Youth/"/>
+    <id>http://xerosanyam.github.io/2015/04/01/Financial-Management-for-Youth/</id>
     <published>2015-04-01T17:34:27.000Z</published>
     <updated>2015-11-13T11:22:37.932Z</updated>
     <content type="html"><![CDATA[<p>This is what I learnt during a lecture series in my College.<br>Before making an investment, check for the following properties in the thing you are investing:<br><strong>Liquidity</strong>: How easy it is to <em><u>access</u></em> your money.<br><strong>Risk: </strong>How <em><u>safe</u></em> your money is.<br><strong>Return</strong>: What <em><u>profit</u></em> investment will result in.</p>
@@ -925,8 +946,8 @@
   
   <entry>
     <title><![CDATA[Tips while Writing on Quora]]></title>
-    <link href="/2015/04/01/Tips-while-Writing-on-Quora/"/>
-    <id>/2015/04/01/Tips-while-Writing-on-Quora/</id>
+    <link href="http://xerosanyam.github.io/2015/04/01/Tips-while-Writing-on-Quora/"/>
+    <id>http://xerosanyam.github.io/2015/04/01/Tips-while-Writing-on-Quora/</id>
     <published>2015-04-01T17:26:38.000Z</published>
     <updated>2015-11-13T11:22:37.932Z</updated>
     <content type="html"><![CDATA[<p>1. To add code. write between code blocks. <div class="codeblock inline_codeblock"><pre><span class="">Write code here</span></pre></div><br>2. To add maths in latex. Use math blocks <span class="render_latex">[math]0<em>a=0</em>b, \forall a,b\in\mathbb C[/math]</span></p>
@@ -940,8 +961,8 @@
   
   <entry>
     <title><![CDATA[Spellcheck & Grammar in Latex]]></title>
-    <link href="/2015/03/31/Spellcheck-Grammar-in-Latex/"/>
-    <id>/2015/03/31/Spellcheck-Grammar-in-Latex/</id>
+    <link href="http://xerosanyam.github.io/2015/03/31/Spellcheck-Grammar-in-Latex/"/>
+    <id>http://xerosanyam.github.io/2015/03/31/Spellcheck-Grammar-in-Latex/</id>
     <published>2015-03-31T07:20:36.000Z</published>
     <updated>2015-11-13T11:22:37.932Z</updated>
     <content type="html"><![CDATA[<ol>
@@ -959,8 +980,8 @@
   
   <entry>
     <title><![CDATA[Forwarding port in Linux]]></title>
-    <link href="/2015/03/26/Forwarding-port-in-Linux/"/>
-    <id>/2015/03/26/Forwarding-port-in-Linux/</id>
+    <link href="http://xerosanyam.github.io/2015/03/26/Forwarding-port-in-Linux/"/>
+    <id>http://xerosanyam.github.io/2015/03/26/Forwarding-port-in-Linux/</id>
     <published>2015-03-26T12:28:08.000Z</published>
     <updated>2015-11-13T11:22:37.932Z</updated>
     <content type="html"><![CDATA[<p>This forwards request from 8080 to 3000</p>
@@ -977,8 +998,8 @@
   
   <entry>
     <title><![CDATA[Make Ubuntu Keyboard work like Windows]]></title>
-    <link href="/2015/03/25/Make-Ubuntu-Keyboard-work-like-Windows/"/>
-    <id>/2015/03/25/Make-Ubuntu-Keyboard-work-like-Windows/</id>
+    <link href="http://xerosanyam.github.io/2015/03/25/Make-Ubuntu-Keyboard-work-like-Windows/"/>
+    <id>http://xerosanyam.github.io/2015/03/25/Make-Ubuntu-Keyboard-work-like-Windows/</id>
     <published>2015-03-25T09:47:50.000Z</published>
     <updated>2015-11-13T11:22:37.933Z</updated>
     <content type="html"><![CDATA[<ul>
@@ -1015,8 +1036,8 @@
   
   <entry>
     <title><![CDATA[On ways to use a Screw]]></title>
-    <link href="/2015/03/22/On-ways-to-use-a-Screw/"/>
-    <id>/2015/03/22/On-ways-to-use-a-Screw/</id>
+    <link href="http://xerosanyam.github.io/2015/03/22/On-ways-to-use-a-Screw/"/>
+    <id>http://xerosanyam.github.io/2015/03/22/On-ways-to-use-a-Screw/</id>
     <published>2015-03-22T16:40:33.000Z</published>
     <updated>2015-11-13T11:22:37.932Z</updated>
     <content type="html"><![CDATA[<ol>
@@ -1043,8 +1064,8 @@
   
   <entry>
     <title><![CDATA[5 Counter-Intuitive Ideas]]></title>
-    <link href="/2015/03/22/5-Counter-Intuitive-Ideas/"/>
-    <id>/2015/03/22/5-Counter-Intuitive-Ideas/</id>
+    <link href="http://xerosanyam.github.io/2015/03/22/5-Counter-Intuitive-Ideas/"/>
+    <id>http://xerosanyam.github.io/2015/03/22/5-Counter-Intuitive-Ideas/</id>
     <published>2015-03-22T12:57:24.000Z</published>
     <updated>2015-11-13T11:22:37.935Z</updated>
     <content type="html"><![CDATA[<p>1. It&#039;s okay to not have passion.<br>2. Buy share when its price is low and sell when its high.</p>
