@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://xerosanyam.github.io/2015/04/18/Things-to-do-after-Linux-Mint-17-Installation/</loc>
+    <lastmod>2015-11-16T05:32:28.964Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://xerosanyam.github.io/2015/11/14/Data-Structures/</loc>
     <lastmod>2015-11-14T10:07:06.229Z</lastmod>
   </url>
@@ -32,17 +37,17 @@
   </url>
   
   <url>
-    <loc>http://xerosanyam.github.io/2015/10/11/Amazon-Kindle-Tips-Tricks/</loc>
-    <lastmod>2015-11-13T11:22:37.935Z</lastmod>
-  </url>
-  
-  <url>
     <loc>http://xerosanyam.github.io/2015/03/22/5-Counter-Intuitive-Ideas/</loc>
     <lastmod>2015-11-13T11:22:37.935Z</lastmod>
   </url>
   
   <url>
     <loc>http://xerosanyam.github.io/2015/11/09/Organizing-Photos-Tips-Pitfalls/</loc>
+    <lastmod>2015-11-13T11:22:37.935Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://xerosanyam.github.io/2015/10/11/Amazon-Kindle-Tips-Tricks/</loc>
     <lastmod>2015-11-13T11:22:37.935Z</lastmod>
   </url>
   
@@ -58,11 +63,6 @@
   
   <url>
     <loc>http://xerosanyam.github.io/2015/06/26/How-to-make-a-Twitter-Bot/</loc>
-    <lastmod>2015-11-13T11:22:37.932Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://xerosanyam.github.io/2015/04/07/You-and-Your-Research/</loc>
     <lastmod>2015-11-13T11:22:37.932Z</lastmod>
   </url>
   
@@ -87,7 +87,7 @@
   </url>
   
   <url>
-    <loc>http://xerosanyam.github.io/2015/04/18/Things-to-do-after-Linux-Mint-17-Installation/</loc>
+    <loc>http://xerosanyam.github.io/2015/04/18/Things-learnt-while-developing-Chrome-Extension/</loc>
     <lastmod>2015-11-13T11:22:37.932Z</lastmod>
   </url>
   
@@ -97,12 +97,12 @@
   </url>
   
   <url>
-    <loc>http://xerosanyam.github.io/2015/04/18/Things-learnt-while-developing-Chrome-Extension/</loc>
+    <loc>http://xerosanyam.github.io/2015/03/31/Spellcheck-Grammar-in-Latex/</loc>
     <lastmod>2015-11-13T11:22:37.932Z</lastmod>
   </url>
   
   <url>
-    <loc>http://xerosanyam.github.io/2015/03/31/Spellcheck-Grammar-in-Latex/</loc>
+    <loc>http://xerosanyam.github.io/2015/04/07/You-and-Your-Research/</loc>
     <lastmod>2015-11-13T11:22:37.932Z</lastmod>
   </url>
   
