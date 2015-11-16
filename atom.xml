@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Sharing is Caring :)]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://xerosanyam.github.io/"/>
-  <updated>2015-11-16T05:35:52.919Z</updated>
+  <updated>2015-11-16T05:44:16.968Z</updated>
   <id>http://xerosanyam.github.io/</id>
   
   <author>
@@ -19,25 +19,32 @@
     <link href="http://xerosanyam.github.io/2015/11/16/Things-to-do-after-Linux-Mint-17-Installation/"/>
     <id>http://xerosanyam.github.io/2015/11/16/Things-to-do-after-Linux-Mint-17-Installation/</id>
     <published>2015-11-16T06:04:39.000Z</published>
-    <updated>2015-11-16T05:35:52.919Z</updated>
+    <updated>2015-11-16T05:44:16.968Z</updated>
     <content type="html"><![CDATA[<p>Using Linux is like driving a manual transmission vehicle, wherein you have complete control on most of the aspect of the system. This post contains various tips &amp; tricks to configure your linux machine.<br><a id="more"></a></p>
 <ol>
-<li><p>Change keyboard layout to use Num Key as in windows<br>(Keyboard-&gt;Layout-&gt;Options-&gt;Miscellenous-&gt;Win<wbr>dows)</p>
-</li>
-<li><p>Delete Downloads, Music, Video folders, etc and Drag and Drop same Folders from Storage Drive to the side pane.</p>
-</li>
+<li>Change keyboard layout to use Num Key as in windows<br>(Keyboard-&gt;Layout-&gt;Options-&gt;Miscellenous-&gt;Win<wbr>dows)</li>
+<li>Delete Downloads, Music, Video folders, etc and Drag and Drop same Folders from Storage Drive to the side pane.</li>
 <li>If firefox doesn&#039;t support Google, add an Addon. <a href="https://addons.mozilla.org/en-US/firefox/addon/google-default/?src=search" target="_blank" rel="external">Google Default</a></li>
 <li><p>Fix booting issues by installing boot-repair. <a href="https://help.ubuntu.com/community/Boot-Repair" target="_blank" rel="external">Boot-Repair - Community Help Wiki</a></p>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">sudo add-apt-repository ppa:yannubuntu/boot-repair</span><br><span class="line">sudo apt-get update</span><br><span class="line">sudo apt-get install -y boot-repair &amp;&amp; boot-repair</span><br></pre></td></tr></table></figure>
 </li>
-<li><p>Install Chrome. Download chrome from website, <div class="codeblock inline_codeblock"><pre><span class="">sudo dpkg -i google-chrome-stable_current_i386.deb</span></pre></div></p>
+<li><p>Install Chrome. Download chrome from website</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo dpkg -i google-chrome-stable_current_i386.deb</span><br></pre></td></tr></table></figure>
 </li>
-<li>Set Download locations of chrome and firefox to Storage-&gt;Downloads-&gt;Chrom<wbr>e</li>
-<li>Install Geany IDE. <div class="codeblock inline_codeblock"><pre><span class="">sudo apt-get install geany</span></pre></div></li>
-<li>Install libraries for C compilation. <div class="codeblock inline_codeblock"><pre><span class="">sudo apt-get install build-essential</span></pre></div></li>
-<li>If brightness buttons don&#039;t work. <span class="qlink_container"><a href="http://itsfoss.com/fix-brightness-ubuntu-1310/" target="_blank" rel="external">Fix Brightness Control Not Working for Ubuntu 14.04 &amp; Linux Mint 17</a></span></li>
+<li><p>Set Download locations of chrome and firefox to Storage-&gt;Downloads-&gt;Chrom<wbr>e</p>
+</li>
+<li><p>Install Geany IDE.</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo apt-get install geany</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>Install libraries for C compilation.</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo apt-get install build-essential</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>If brightness buttons don&#039;t work. <span class="qlink_container"><a href="http://itsfoss.com/fix-brightness-ubuntu-1310/" target="_blank" rel="external">Fix Brightness Control Not Working for Ubuntu 14.04 &amp; Linux Mint 17</a></span></p>
+</li>
 <li>Install atom text editor. <span class="qlink_container"><a href="http://itsfoss.com/install-atom-text-editor-ubuntu-1404-linux-mint-17/" target="_blank" rel="external">Install Atom Text Editor In Ubuntu 14.04 &amp; Linux Mint 17</a></span></li>
-<li>Install Oracle Java. <span class="qlink_container"><a href="http://community.linuxmint.com/tutorial/view/1839" target="_blank" rel="external">How to Completely Install Oracle JDK on Linux Mint 17</a></span>. <div class="codeblock inline_codeblock"><pre><span class="">wget –no-check-certificate –no-cookies –header &quot;Cookie: oraclelicense=accept-securebackup-cookie&quot; &lt;Download URL&gt;</span></pre></div></li>
+<li><p>Install Oracle Java. <span class="qlink_container"><a href="http://community.linuxmint.com/tutorial/view/1839" target="_blank" rel="external">How to Completely Install Oracle JDK on Linux Mint 17</a></span></p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">wget --no-check-certificate --no-cookies --header &amp;quot;Cookie: oraclelicense=accept-securebackup-cookie&amp;quot; &amp;lt;Download URL&amp;gt;</span><br></pre></td></tr></table></figure>
+</li>
 <li><p>Applets in Panel</p>
 <ol>
 <li><strong>Screenshot</strong> screenshot@tech71</li>
@@ -51,9 +58,14 @@
 </ol>
 </li>
 <li>To prettify GRUB <span class="qlink_container"><a href="https://sites.google.com/site/easylinuxtipsproject/beautifygrub" target="_blank" rel="external">Make your Grub boot menu pretty - Easy Linux tips project</a></span></li>
-<li>To auto mount Drives <div class="codeblock inline_codeblock"><pre><span class="">sudo apt-get install ntfs-config</span></pre></div></li>
-<li>Set Mint to use local time.(keeps windows and ubuntu time sync) <div class="codeblock inline_codeblock"><pre><span class="">sudo sed -i &#039;s/UTC=yes/UTC=no/&#039; /etc/default/rcS</span></pre></div></li>
-<li>To install latex <span class="qlink_container"><a href="http://forums.linuxmint.com/viewtopic.php?f=42&amp;t=170852" target="_blank" rel="external">How to: Get LaTeX running on Linux Mint</a></span>.<br>Install the mentioned packages using a package manager.</li>
+<li><p>To auto mount Drives</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo apt-get install ntfs-config</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>Set Mint to use local time.(keeps windows and ubuntu time sync)</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo sed -i &amp;<span class="comment">#039;s/UTC=yes/UTC=no/&amp;#039; /etc/default/rcS</span></span><br></pre></td></tr></table></figure>
+</li>
+<li><p>To install latex <span class="qlink_container"><a href="http://forums.linuxmint.com/viewtopic.php?f=42&amp;t=170852" target="_blank" rel="external">How to: Get LaTeX running on Linux Mint</a></span>.<br>Install the mentioned packages using a package manager.</p>
+</li>
 <li>Use Evernote in Linux by NeighborNote&nbsp; <span class="qlink_container"><a href="https://neighbornote.herokuapp.com/" target="_blank" rel="external">NeighborNote</a></span></li>
 <li>[<strong>experimental</strong>] Use symbolic links &amp; Dropbox to keep important stuff in sync between windows, linux &amp; cloud. <span class="qlink_container"><a href="http://www.howtogeek.com/194431/how-to-sync-any-folder-to-the-cloud-with-symbolic-links/" target="_blank" rel="external">How to Sync Any Folder to the Cloud With Symbolic Links</a></span></li>
 <li><p>Have bluetooth turned off at startup</p>
