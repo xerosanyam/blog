@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: sanyamja.in
+Token: 04b863493064bb8b87b5a1922293eaecf8786df148adda31db5dcbe346932745
